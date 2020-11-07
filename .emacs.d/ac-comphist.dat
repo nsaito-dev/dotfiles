@@ -1,0 +1,2106 @@
+((("offsetdata" .
+                [2 0 0 0 0 0 0 0 1 0])
+  ("normdata" .
+              [1 0 0 1 0 0 0 0])
+  ("offset" .
+            [5 0 0 1 0 0])
+  ("norm" .
+          [2 0 0 0])
+  ("rawdata" .
+             [0 0 1 2 0 0 0])
+  ("load_nmrdata" .
+                  [0 0 0 1 1 0 0 0 0 0 0 0])
+  ("files" .
+           [4 0 0 0 0])
+  ("plot" .
+          [1 0 0 0])
+  ("show" .
+          [1 0 0 0])
+  ("maxy" .
+          [1 0 0 0])
+  ("xlist" .
+           [3 0 0 0 0])
+  ("Japan" .
+           [1 0 0 0 0])
+  ("pagetop-en" .
+                [1 0 0 0 0 0 0 0 0 0])
+  (">Page" .
+           [1 0 0 0 0])
+  ("2020" .
+          [1 0 0 0])
+  ("Science" .
+             [1 0 0 0 0 0 0])
+  ("University" .
+                [1 0 0 0 0 0 0 0 0 0])
+  ("Tokyo" .
+           [1 0 0 0 0])
+  ("Kondo" .
+           [1 0 0 0 0])
+  ("Saito" .
+           [1 0 0 0 0])
+  ("<p>" .
+         [1 0 0])
+  ("surface" .
+             [1 0 0 0 0 0 0])
+  ("crystalline" .
+                 [1 0 0 0 0 0 0 0 0 0 0])
+  ("nanophosphors" .
+                   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("the" .
+         [2 0 0])
+  ("surfactants" .
+                 [1 0 0 0 0 0 0 0 0 0 0])
+  ("surfactant" .
+                [1 0 0 0 0 0 0 0 0 0])
+  ("ligand" .
+            [2 0 0 0 0 0])
+  ("hybrid" .
+            [1 0 0 0 0 0])
+  ("organic" .
+             [1 0 0 0 0 0 0])
+  ("been" .
+          [1 0 0 0])
+  ("nanocrystals" .
+                  [1 0 0 0 1 0 0 0 0 0 0 0])
+  ("UV" .
+        [1 0])
+  ("by" .
+        [1 0])
+  ("luminescence" .
+                  [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("can" .
+         [1 0 0])
+  ("that" .
+          [1 0 0 0])
+  ("crystals" .
+              [2 0 0 0 0 0 0 0])
+  ("crystal" .
+             [3 0 0 0 0 0 0])
+  ("<p>Metal" .
+              [1 0 0 0 0 0 0 0])
+  ("using" .
+           [1 0 0 0 0])
+  ("nature" .
+            [1 0 0 0 0 0])
+  ("their" .
+           [2 0 0 0 0])
+  ("have" .
+          [2 0 0 0])
+  ("red" .
+         [2 0 0])
+  ("are" .
+         [3 0 0])
+  ("as" .
+        [4 0])
+  ("anion" .
+           [1 0 0 0 0])
+  ("a" .
+       [3])
+  ("m" .
+       [1])
+  ("octahedron" .
+                [1 0 0 0 0 0 0 0 0 0])
+  ("such" .
+          [2 0 0 0])
+  ("exsist" .
+            [0 0 1 0 0 0])
+  ("an" .
+        [1 0])
+  ("large" .
+           [2 0 0 0 0])
+  ("cluster" .
+             [2 0 0 0 0 0 0])
+  ("and" .
+         [8 0 0])
+  ("compounds" .
+               [1 0 1 0 0 0 0 0 0])
+  ("metal" .
+           [4 0 0 0 0])
+  ("novel" .
+           [3 0 0 0 0])
+  ("of" .
+        [8 0])
+  ("urlencode" .
+               [1 0 0 0 0 0 0 0 0])
+  ("Request" .
+             [1 0 0 0 0 0 0])
+  ("urlopen" .
+             [1 0 0 0 0 0 0])
+  ("res" .
+         [7 0 0])
+  ("sentence" .
+              [0 0 1 4 0 1 0 0])
+  ("urllib" .
+            [6 0 0 0 0 0])
+  ("params" .
+            [9 0 0 0 1 0])
+  ("pageurl" .
+             [3 0 0 0 1 0 0])
+  ("None" .
+          [2 0 0 0])
+  ("read" .
+          [4 0 0 0])
+  ("req" .
+         [4 0 0])
+  ("encode" .
+            [5 0 0 0 0 0])
+  ("doc" .
+         [2 0 0])
+  ("results" .
+             [0 0 0 2 0 0 0])
+  ("request" .
+             [4 0 0 0 0 0 0])
+  ("<dd>M1" .
+            [1 0 0 0 0 0])
+  ("<dd>B4" .
+            [1 0 0 0 0 0])
+  ("dead_class" .
+                [0 0 0 1 0 0 0 0 0 0])
+  ("survived_class" .
+                    [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("df_class" .
+              [6 0 0 0 0 0 0 0])
+  ("display" .
+             [2 0 0 0 0 0 0])
+  ("seaborn" .
+             [1 0 0 0 0 0 0])
+  ("warnings" .
+              [1 0 0 0 0 0 0 0])
+  ("url" .
+         [1 0 0])
+  ("len" .
+         [2 0 0])
+  ("sum" .
+         [1 0 0])
+  ("online_retail_df" .
+                      [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("Online" .
+            [0 0 1 0 0 0])
+  ("E_r" .
+         [1 0 0])
+  ("sheet" .
+           [2 0 0 0 0])
+  ("excel" .
+           [1 0 0 0 0])
+  ("inf" .
+         [3 0 0])
+  ("get_knum" .
+              [1 0 0 0 0 0 0 0])
+  ("knum" .
+          [5 0 0 0])
+  ("kpt" .
+         [1 0 0])
+  ("get_kpts" .
+              [0 0 0 0 0 1 0 0])
+  ("dark" .
+          [5 0 0 0])
+  ("argv" .
+          [1 0 0 0])
+  ("printf" .
+            [1 0 0 0 0 0])
+  ("argc" .
+          [1 0 0 0])
+  ("set_trace" .
+               [0 0 1 2 0 0 0 0 0])
+  ("plot_decision_regions" .
+                           [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("label" .
+           [1 0 0 0 0])
+  ("idx" .
+         [2 0 0])
+  ("alpha" .
+           [1 0 0 0 0])
+  ("scatter" .
+             [1 0 0 0 0 0 0])
+  ("unique" .
+            [1 0 0 0 0 0])
+  ("max" .
+         [2 0 0])
+  ("cmap" .
+          [2 0 0 0])
+  ("shape" .
+           [1 0 0 0 0])
+  ("test_x" .
+            [0 0 1 0 0 0])
+  ("ravel" .
+           [1 0 0 0 0])
+  ("xx2" .
+         [4 0 0])
+  ("xx1" .
+         [5 0 0])
+  ("x2_min" .
+            [1 0 0 0 0 0])
+  ("resolution" .
+                [0 0 0 0 2 0 0 1 0 0])
+  ("x2_max" .
+            [2 0 0 0 0 0])
+  ("min" .
+         [3 0 0])
+  ("ListedColormap" .
+                    [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("colors" .
+            [1 0 0 0 0 0])
+  ("range" .
+           [2 0 0 0 0])
+  ("marker" .
+            [4 0 0 0 0 0])
+  ("pdb" .
+         [5 0 1])
+  ("ylabel" .
+            [1 0 0 0 0 0])
+  ("xlabel" .
+            [2 0 0 0 0 0])
+  ("erros" .
+           [2 0 0 0 0])
+  ("plt" .
+         [14 0 0])
+  ("values" .
+            [2 0 0 0 0 0])
+  ("100" .
+         [4 0 0])
+  ("iloc" .
+          [2 0 0 0])
+  ("where" .
+           [1 0 0 0 0])
+  ("errors" .
+            [0 0 0 1 0 0])
+  ("net_input" .
+               [1 0 0 0 0 0 0 0 0])
+  ("update" .
+            [3 0 0 0 0 0])
+  ("predict" .
+             [2 0 0 0 0 0 0])
+  ("target" .
+            [1 0 0 0 0 0])
+  ("niter" .
+           [2 0 0 0 0])
+  ("fit" .
+         [2 0 0])
+  ("pass" .
+          [5 0 0 0])
+  ("python" .
+            [1 0 0 0 0 0])
+  ("export" .
+            [5 0 0 0 0 0])
+  ("echo" .
+          [6 0 0 0])
+  ("pos_list" .
+              [0 0 0 1 0 0 0 0])
+  ("_str2f" .
+            [0 0 0 0 0 1])
+  ("set_source" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("source" .
+            [3 0 0 0 0 1])
+  ("set_lattice" .
+                 [0 0 0 0 1 0 0 0 0 0 0])
+  ("set_formula" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("rawcif" .
+            [0 0 0 0 0 4])
+  ("crystal_info" .
+                  [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("crys" .
+          [0 0 0 1])
+  ("tools" .
+           [0 0 0 1 0])
+  ("nose" .
+          [1 0 0 0])
+  ("crysinfo" .
+              [0 1 0 0 0 0 1 0])
+  ("eq_" .
+         [0 2 0])
+  ("DBNAME" .
+            [0 0 0 0 0 1])
+  ("P" .
+       [1])
+  ("CrystalInfo" .
+                 [0 4 1 0 0 0 0 0 0 0 0])
+  ("is-distinct-primes" .
+                        [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("isprime" .
+             [0 0 1 0 0 0 0])
+  ("*monster-num*" .
+                   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("*monster-builders*" .
+                        [0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("*monster" .
+              [0 0 0 0 0 0 0 1])
+  ("random" .
+            [4 0 1 0 0 1])
+  ("monster-dead" .
+                  [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("*monster*" .
+               [0 0 1 0 0 0 0 0 5])
+  ("player-attack" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("player-dead" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("*player-strength*" .
+                       [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5])
+  ("*player-" .
+              [0 0 0 0 0 0 0 6])
+  ("*player-health*" .
+                     [0 0 0 0 1 0 0 0 2 0 0 0 0 0 0])
+  ("*player-agility*" .
+                      [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 1])
+  ("withline" .
+              [0 0 0 0 1 0 0 0])
+  ("elapsed" .
+             [0 0 0 0 0 0 1])
+  ("endtime_str" .
+                 [0 0 1 0 0 0 0 0 0 0 0])
+  ("starttime_str" .
+                   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("functools" .
+               [0 0 0 0 1 0 0 0 0])
+  ("starttime" .
+               [0 0 0 1 0 0 0 0 0])
+  ("fintime" .
+             [0 0 0 0 0 0 1])
+  ("callback" .
+              [0 0 0 1 0 0 0 2])
+  ("criteria" .
+              [0 0 0 0 0 0 0 2])
+  ("grep_proc" .
+               [0 0 0 0 0 0 0 0 2])
+  ("mkgeneric_elliptic_model" .
+                              [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("test_mkmesh" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("AAO" .
+         [1 0 1])
+  ("Line" .
+          [0 2 0 1])
+  ("nanoelecrode" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Point" .
+           [0 0 0 0 5])
+  ("sys_height" .
+                [0 0 0 0 1 0 0 0 0 0])
+  ("electrode" .
+               [1 0 0 0 0 0 0 0 0])
+  ("electrode_height" .
+                      [0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("sys_width" .
+               [0 0 0 0 0 0 0 0 2])
+  ("electrode_n" .
+                 [0 0 0 0 0 0 0 0 0 1 0])
+  ("AAO_diameter" .
+                  [0 1 0 7 1 0 0 0 0 0 0 2])
+  ("electrode_diameter" .
+                        [0 0 0 4 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("AAO_interval" .
+                  [0 0 0 1 0 0 0 0 0 0 0 1])
+  ("Triangle" .
+              [0 0 0 1 0 0 0 0])
+  ("abstractmethod" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("abs" .
+         [3 0 0])
+  ("fixed_vertices" .
+                    [0 0 2 0 0 2 0 0 0 0 0 0 0 0])
+  ("innbnd_vertices" .
+                     [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("extbnd_vertices" .
+                     [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("expbnd_vertices" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("constructing" .
+                  [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("Considering" .
+                 [0 0 0 0 1 0 0 0 0 0 0])
+  ("DelaunayChart" .
+                   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("Visualizing" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("adding" .
+            [0 0 0 1 0 0])
+  ("genvertices_with_means" .
+                            [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nearest_vertex" .
+                    [0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("vert" .
+          [0 0 0 1])
+  ("vertices" .
+              [0 0 0 11 8 2 0 6])
+  ("cpucount" .
+              [0 0 0 1 0 0 0 0])
+  ("multiprocessing" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("matplotlib" .
+                [1 0 0 0 0 0 0 0 0 1])
+  ("neumann" .
+             [0 1 1 0 0 0 0])
+  ("condition" .
+               [0 0 0 1 0 0 0 0 0])
+  ("dirichlet" .
+               [0 1 1 0 0 0 0 0 0])
+  ("check_bndcond" .
+                   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("barwidth" .
+              [0 0 0 1 0 0 0 0])
+  ("legend" .
+            [0 0 0 0 0 1])
+  ("markertype" .
+                [0 0 0 0 0 0 2 0 0 0])
+  ("markersize" .
+                [0 0 0 0 0 0 2 0 0 0])
+  ("isbarchart" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("charttype" .
+               [0 0 0 0 0 3 0 0 0])
+  ("barticks" .
+              [0 0 0 1 0 0 0 0])
+  ("isstrticks" .
+                [0 0 1 0 0 0 0 0 0 0])
+  ("queue" .
+           [0 0 1 0 0])
+  ("plots" .
+           [0 0 1 0 0])
+  ("markertypes" .
+                 [0 0 1 1 0 0 0 0 0 0 0])
+  ("linetype" .
+              [0 0 1 0 5 0 0 2])
+  ("color" .
+           [0 0 0 0 1])
+  ("getkey" .
+            [0 0 0 0 0 1])
+  ("_getkey" .
+             [0 0 0 0 0 0 1])
+  ("scheme" .
+            [0 0 3 0 0 0])
+  ("predict_hparams" .
+                     [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("update_hparams" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("iteration_limit" .
+                     [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("calculation" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("nexta" .
+           [0 0 0 0 1])
+  ("nextb" .
+           [0 0 0 0 2])
+  ("error" .
+           [0 0 0 1 2])
+  ("iterate" .
+             [0 0 0 0 0 0 3])
+  ("inithparams" .
+                 [0 0 0 0 6 0 0 0 0 0 0])
+  ("regular_coefficient" .
+                         [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("hparams" .
+             [0 1 0 0 0 0 1])
+  ("trainingset" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("initparam" .
+               [0 0 0 0 0 0 0 0 2])
+  ("design_matrix" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("polynominal" .
+                 [0 0 0 0 0 0 0 0 0 0 3])
+  ("_polynominal" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("BasisFunction" .
+                   [0 0 0 1 0 0 0 0 0 0 0 0 1])
+  ("elements" .
+              [0 0 0 0 0 0 0 1])
+  ("blancer" .
+             [0 0 0 0 0 0 1])
+  ("coefficients" .
+                  [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("coding" .
+            [0 0 1 0 0 0])
+  ("targets" .
+             [0 0 0 0 0 0 9])
+  ("points" .
+            [0 0 4 0 0 0])
+  ("fittiing_error" .
+                    [0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("indexer" .
+             [0 0 1 0 0 2 0])
+  ("start_crawling_until" .
+                          [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("StopIteration" .
+                   [0 1 0 0 0 0 0 0 0 0 0 0 5])
+  ("crawl_until" .
+                 [0 0 0 0 0 1 0 0 0 0 0])
+  ("get_seek_range" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("skip_pl" .
+             [0 0 0 0 5 0 0])
+  ("skip_step" .
+               [0 0 0 0 9 0 0 0 0])
+  ("lower" .
+           [0 0 0 0 1])
+  ("get_counter" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("allids" .
+            [0 0 0 0 0 3])
+  ("expect_a" .
+              [0 0 1 0 0 0 0 0])
+  ("mkpostinglist" .
+                   [0 0 1 0 0 0 0 0 0 0 0 0 4])
+  ("get_docids_bytoken" .
+                        [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("oprs" .
+          [0 0 0 1])
+  ("good-enough?" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("guess" .
+           [0 1 0 0 1])
+  ("square" .
+            [0 0 0 0 0 10])
+  ("isFormated" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("prevPsname" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("Column" .
+            [0 0 1 0 0 1])
+  ("ForeignKey" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("syncdb" .
+            [0 0 1 0 0 0])
+  ("engine" .
+            [0 0 0 0 0 1])
+  ("Float" .
+           [0 0 0 0 1])
+  ("String" .
+            [0 2 0 0 0 1])
+  ("ctr" .
+         [0 0 1])
+  ("getattr" .
+             [0 0 0 0 0 0 1])
+  ("util" .
+          [0 0 0 1])
+  ("removePlotSource" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("checkedPsnames" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("removingPss" .
+                 [0 0 0 0 2 0 0 0 0 0 0])
+  ("commit" .
+            [0 0 0 0 3 2])
+  ("psname" .
+            [0 0 2 0 0 0])
+  ("psnames" .
+             [0 0 0 0 0 0 7])
+  ("PlotSource" .
+                [0 0 0 0 1 0 0 0 0 0])
+  ("plotSource" .
+                [0 0 0 0 0 0 0 0 0 10])
+  ("DBManager" .
+               [0 0 0 0 0 0 0 0 2])
+  ("DataSource" .
+                [0 0 0 1 0 0 0 0 0 0])
+  ("ChartDetail" .
+                 [0 0 0 0 0 1 0 0 0 0 0])
+  ("chartDetailDataSource" .
+                           [0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("plotDataSource" .
+                    [0 0 3 0 2 0 0 0 0 0 0 0 0 0])
+  ("istwoabundant" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("twoabundants" .
+                  [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("two_abundants" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("abundants" .
+               [0 2 6 0 0 0 0 0 0])
+  ("millionth" .
+               [0 0 0 0 2 0 0 0 0])
+  ("digit" .
+           [0 0 0 0 1])
+  ("fstdigit" .
+              [0 0 0 0 0 0 0 2])
+  ("otherwise" .
+               [0 0 3 1 0 0 0 0 0])
+  ("limit" .
+           [0 0 0 0 1])
+  ("permutations" .
+                  [0 0 1 1 0 0 0 0 0 0 0 1])
+  ("factorial" .
+               [0 0 2 1 0 0 0 0 6])
+  ("count" .
+           [0 0 4 0 1])
+  ("counter" .
+             [1 0 6 0 0 0 0])
+  ("count_chnumber" .
+                    [0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("divide_number" .
+                   [0 0 2 0 1 0 0 0 0 0 0 0 0])
+  ("number_counter" .
+                    [0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("div100" .
+            [0 0 1 0 0 0])
+  ("number2chars" .
+                  [0 0 0 0 0 0 2 0 0 0 0 0])
+  ("char2chars" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("chars_counter" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("c" .
+       [2])
+  ("Char" .
+          [5 0 0 2])
+  ("sieve_of_atkin" .
+                    [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("prime_factors" .
+                   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("ismprime" .
+              [0 0 2 0 0 0 0 0])
+  ("_ismprime" .
+               [0 0 0 0 3 0 0 0 0])
+  ("ismultiples5" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ismultiples3" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("_ismultiples" .
+                  [0 0 0 0 0 0 0 0 0 0 0 13])
+  ("ismultiples" .
+                 [0 0 0 0 0 0 0 0 0 0 6])
+  ("nginx_conf" .
+                [0 1 0 0 0 0 0 0 0 0])
+  ("header-footer-bgcolor" .
+                           [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DEBUG" .
+           [0 0 4 0 1])
+  ("matched_entry" .
+                   [0 0 0 0 0 0 0 0 3 0 0 0 0])
+  ("create_html" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("create_menu" .
+                 [0 0 0 0 0 0 0 1 0 0 0])
+  ("content" .
+             [0 0 1 0 0 0 0])
+  ("radius" .
+            [0 0 0 0 1 0])
+  ("border-radius" .
+                   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("menuColor" .
+               [0 0 0 1 0 0 0 0 1])
+  ("corner-radius" .
+                   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("usr" .
+         [0 2 0])
+  ("insserv" .
+             [0 0 0 1 0 0 1])
+  ("format" .
+            [0 0 0 1 0 0])
+  ("localpath" .
+               [0 0 0 0 0 1 0 0 0])
+  ("supervisord_conf" .
+                      [0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("supervisord" .
+                 [0 0 4 0 0 0 0 0 0 0 0])
+  ("run_supervisord" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("setup_supervisord" .
+                       [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("run_gunicorn" .
+                  [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("run_nginx" .
+               [0 0 0 1 0 0 0 0 0])
+  ("Setup" .
+           [0 0 0 0 2])
+  ("address" .
+             [1 0 0 0 0 0 1])
+  ("deploypath" .
+                [0 0 3 0 0 0 0 0 0 0])
+  ("cutpath" .
+             [0 0 0 0 0 0 1])
+  ("projectname" .
+                 [0 0 1 5 0 0 0 0 0 0 0])
+  ("install_package" .
+                     [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("init_vagrant" .
+                  [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("DEPLOY_DIR" .
+                [0 3 1 0 0 0 0 0 0 5])
+  ("production" .
+                [0 0 0 3 0 0 0 0 0 0])
+  ("make_context" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("aniter" .
+            [0 0 2 0 0 0])
+  ("iter1" .
+           [0 0 0 0 1])
+  ("iter" .
+          [0 0 0 2])
+  ("assert_equal" .
+                  [0 0 0 0 0 0 0 1 0 0 0 9])
+  ("soup_with_link_list" .
+                         [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("fetchone" .
+              [0 0 0 0 0 0 0 3])
+  ("SELECT" .
+            [0 0 0 0 0 2])
+  ("table" .
+           [0 0 1 0 8])
+  ("colstr" .
+            [0 0 1 0 0 0])
+  ("columns" .
+             [0 0 0 2 0 0 0])
+  ("query" .
+           [0 0 0 4 0])
+  ("value" .
+           [0 0 0 0 3])
+  ("field" .
+           [0 0 0 0 1])
+  ("insert_db" .
+               [0 0 0 2 0 0 0 0 1])
+  ("toid" .
+          [0 0 1 0])
+  ("fromid" .
+            [0 0 0 0 2 0])
+  ("linktext" .
+              [0 0 0 1 0 0 0 0])
+  ("valuestr" .
+              [0 0 0 0 0 1 0 0])
+  ("tablestr" .
+              [0 0 1 0 0 0 0 0])
+  ("colmns" .
+            [0 0 0 1 0 1])
+  ("INSERT" .
+            [0 0 0 0 0 7])
+  ("urlid" .
+           [0 1 0 0 0])
+  ("insert" .
+            [0 0 0 0 0 1])
+  ("ignorewords" .
+                 [0 1 1 0 0 0 0 0 0 0 1])
+  ("get_entryid" .
+                 [0 0 0 7 1 0 0 0 0 0 3])
+  ("Get" .
+         [0 0 2])
+  ("separate_words" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("soup" .
+          [3 0 1 2])
+  ("is_indexed" .
+                [0 0 1 0 0 0 0 0 0 0])
+  ("splitter" .
+              [0 0 1 0 0 0 0 0])
+  ("subtexts" .
+              [0 0 0 0 0 0 0 1])
+  ("get_textonly" .
+                  [0 0 0 2 0 0 0 0 0 0 0 0])
+  ("create_indextables" .
+                        [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("crawl" .
+           [0 1 0 0 0])
+  ("urlfrom" .
+             [0 0 0 0 0 0 1])
+  ("wordlocation" .
+                  [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("INDEX" .
+           [0 0 0 0 3])
+  ("con" .
+         [2 0 0])
+  ("wordid" .
+            [0 0 0 0 2 0])
+  ("link" .
+          [2 0 0 0])
+  ("TABLE" .
+           [0 0 0 0 5])
+  ("CREATE" .
+            [0 8 0 0 0 0])
+  ("execute" .
+             [0 0 3 0 0 0 6])
+  ("dbname" .
+            [0 0 1 0 0 2])
+  ("sqlite3" .
+             [0 0 0 0 0 0 1])
+  ("dbcommit" .
+              [0 0 1 0 0 0 0 1])
+  ("db" .
+        [1 0])
+  ("init_matches" .
+                  [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("init_clusters" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("update_clusters" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("match_clusters" .
+                    [0 0 2 1 0 0 0 0 0 0 0 0 0 0])
+  ("best_cindex" .
+                 [0 0 0 0 1 0 0 0 0 0 0])
+  ("matches" .
+             [0 0 5 2 0 0 0])
+  ("rowrange" .
+              [0 0 0 1 0 0 0 0])
+  ("ranges" .
+            [0 0 0 1 0 0])
+  ("kcluster" .
+              [0 0 0 0 0 0 0 2])
+  ("avgs" .
+          [0 0 0 1])
+  ("rowid" .
+           [0 0 1 0 0])
+  ("rows" .
+          [0 0 1 0])
+  ("lastmatches" .
+                 [0 0 0 0 0 0 0 0 0 0 2])
+  ("bestmatch" .
+               [0 0 0 0 0 0 0 0 3])
+  ("bestmatches" .
+                 [0 0 0 0 0 0 0 0 0 9 0])
+  ("clusters" .
+              [1 0 2 0 1 15 0 0])
+  ("random_center" .
+                   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("rotate_matrix" .
+                   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("clust_init" .
+                [0 0 1 0 0 0 0 0 0 0])
+  ("cloest_pair" .
+                 [0 0 0 1 0 0 0 0 0 0 0])
+  ("cloest" .
+            [0 0 1 0 0 0])
+  ("get_closest_clusts" .
+                        [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("lowest_pair" .
+                 [0 0 0 0 0 0 1 0 0 0 0])
+  ("next_clust" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("pearson" .
+             [0 0 0 0 0 0 2])
+  ("id_combs" .
+              [0 0 3 0 0 0 0 0])
+  ("draw_dendrogram" .
+                     [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("marginy" .
+             [0 0 1 0 0 0 0])
+  ("marginx" .
+             [0 0 1 0 0 0 0])
+  ("fil" .
+         [0 0 1])
+  ("bottom" .
+            [0 0 0 0 0 2])
+  ("sclaing_width" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("scaling" .
+             [0 0 0 0 0 0 4])
+  ("get_depth" .
+               [0 0 0 0 0 0 0 0 1])
+  ("unit_of_height" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getdepth" .
+              [0 0 0 1 0 0 0 1])
+  ("get_height" .
+                [0 0 0 0 0 0 0 0 0 5])
+  ("blognames" .
+               [0 0 0 0 3 0 0 0 0])
+  ("labels" .
+            [0 0 0 0 0 3])
+  ("hcluster" .
+              [0 0 0 0 0 0 0 1])
+  ("print_clust" .
+                 [0 0 0 0 0 3 0 0 0 0 0])
+  ("newcluster" .
+                [0 0 1 0 0 0 0 0 0 1])
+  ("currentclustid" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("mergevec" .
+              [0 1 0 0 0 0 0 0])
+  ("lowestpair" .
+                [0 0 0 0 0 0 1 0 0 6])
+  ("closest" .
+             [0 0 0 1 0 0 3])
+  ("distances" .
+               [0 0 0 0 1 0 0 0 7])
+  ("clust" .
+           [0 2 17 0 39])
+  ("Bicluster" .
+               [0 0 0 0 0 0 0 0 2])
+  ("distance" .
+              [0 0 0 0 0 0 0 9])
+  ("right" .
+           [2 1 0 0 3])
+  ("left" .
+          [2 0 1 0])
+  ("resource" .
+              [0 0 0 0 0 0 0 1])
+  ("sum1sq" .
+            [0 0 0 2 0 0])
+  ("splits" .
+            [0 0 0 0 0 2])
+  ("data" .
+          [3 0 0 1])
+  ("rownames" .
+              [0 0 0 0 0 0 0 2])
+  ("readfile" .
+              [0 0 0 0 0 0 0 1])
+  ("splited_line" .
+                  [0 0 0 0 0 2 0 0 0 0 0 0])
+  ("colnames" .
+              [0 0 2 0 0 0 0 1])
+  ("totals" .
+            [0 0 0 0 0 1])
+  ("other" .
+           [0 1 0 0 0])
+  ("total" .
+           [0 0 0 0 2])
+  ("sim_sums" .
+              [0 0 0 1 0 0 0 0])
+  ("weighted_items" .
+                    [0 0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("need_items" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("weighted" .
+              [0 0 0 0 0 0 0 13])
+  ("enweight" .
+              [0 0 1 0 0 0 0 1])
+  ("env" .
+         [1 0 2])
+  ("is_item_in" .
+                [0 0 0 1 0 0 0 0 0 0])
+  ("is_" .
+         [0 0 1])
+  ("scores_template" .
+                     [0 0 0 1 0 4 0 0 0 0 0 0 0 0 0])
+  ("is_item_in_person" .
+                       [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("is_not_included" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("allitems" .
+              [0 1 0 3 0 0 0 3])
+  ("union_items" .
+                 [0 0 0 0 0 2 0 0 0 0 0])
+  ("get_recommendation" .
+                        [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("rankings" .
+              [0 0 0 0 0 0 0 1])
+  ("person2" .
+             [0 0 0 0 0 0 1])
+  ("print" .
+           [35 0 1 0 5])
+  ("sum2sq" .
+            [0 0 1 0 1 1])
+  ("top_matches" .
+                 [0 0 0 0 0 0 0 0 0 0 2])
+  ("scores" .
+            [0 0 0 0 0 3])
+  ("mat" .
+         [0 0 1])
+  ("matched_value_in_person2" .
+                              [0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("matched_value_in_person1" .
+                              [0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("prefs" .
+           [0 0 0 0 2])
+  ("sim_evaluator_by_euclidean" .
+                                [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("sim_evaluator_by_pearson" .
+                              [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("evaluator" .
+               [0 1 0 0 0 0 0 1 0])
+  ("critics" .
+             [0 3 0 0 0 0 3])
+  ("sim_evaluator" .
+                   [0 0 0 2 0 0 0 0 0 0 0 0 1])
+  ("matched" .
+             [0 0 0 4 0 0 0])
+  ("items_of_person2" .
+                      [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1])
+  ("items_of_person1" .
+                      [0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0])
+  ("sim_distance" .
+                  [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("sum_of_squares" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("squares" .
+             [0 0 0 0 0 0 1])
+  ("evaluated" .
+               [0 0 0 0 0 0 0 0 1])
+  ("tableView" .
+               [0 0 0 0 0 0 0 0 13])
+  ("enabled" .
+             [0 0 0 0 0 0 2])
+  ("highlight" .
+               [0 0 0 0 0 0 0 0 1])
+  ("enabledPageControl" .
+                        [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("sender" .
+            [0 0 0 0 0 1])
+  ("highlightIcon" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("UITextField" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("TextFieldView" .
+                   [0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("_textField" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("_unitLabel" .
+                [0 0 0 0 0 1 0 0 0 0])
+  ("layoutSubViews" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("unitLabel" .
+               [0 0 0 0 2 0 0 0 0])
+  ("centerY" .
+             [0 0 0 0 0 0 1])
+  ("centerX" .
+             [0 0 0 0 0 0 1])
+  ("EntryListViewController" .
+                             [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("TransactionViewControllerDelegate" .
+                                       [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("TransactionViewController" .
+                               [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("alignCoordinateToZero" .
+                           [0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Util" .
+          [0 4 0 0])
+  ("textField" .
+               [0 0 1 0 0 0 0 0 0])
+  ("CGRectMake" .
+                [0 0 0 0 0 0 1 0 0 0])
+  ("valueView" .
+               [0 0 0 0 0 3 0 0 0])
+  ("static" .
+            [0 0 0 0 0 1])
+  ("Creation" .
+              [0 0 0 0 0 1 0 0])
+  ("indexPath" .
+               [0 0 0 0 0 0 0 0 2])
+  ("index" .
+           [1 0 0 0 1])
+  ("context" .
+             [0 0 0 0 0 1 0])
+  ("inManagedObjectContext" .
+                            [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Entry" .
+           [0 0 0 0 4])
+  ("appendString" .
+                  [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("LIMIT_OF_STACK" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("appendTextToStack" .
+                       [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("deleteLastStack" .
+                     [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("CAPACITY" .
+              [0 0 1 0 0 0 0 0])
+  ("stringValue" .
+                 [0 0 0 1 0 0 0 0 0 0 0])
+  ("string" .
+            [0 2 1 3 0 0])
+  ("numbersStack" .
+                  [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("formatter" .
+               [0 0 3 0 0 0 0 0 8])
+  ("setString" .
+               [0 0 0 1 1 0 0 0 1])
+  ("updateValueLabel" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("_formatter" .
+                [0 0 0 4 0 0 0 0 0 4])
+  ("NSNumberFormatter" .
+                       [1 0 4 0 0 0 0 0 3 1 0 0 0 0 0 0 0])
+  ("NSNumber" .
+              [0 0 1 0 0 0 0 8])
+  ("@selector" .
+               [0 0 2 0 0 0 0 0 0])
+  ("valueLabel" .
+                [0 0 0 0 0 5 0 0 0 0])
+  ("_numberStack" .
+                  [0 0 0 0 0 0 0 0 0 0 0 4])
+  ("numberStack" .
+                 [0 0 1 0 0 0 15 0 0 0 1])
+  ("NSMutableString" .
+                     [0 0 0 0 0 0 0 0 0 1 0 0 0 0 1])
+  ("Custom" .
+            [0 0 0 0 0 2])
+  ("colorWithRed" .
+                  [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("drawRect" .
+              [0 0 0 0 0 0 0 2])
+  ("QuartzCore" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("valueBackgroundView" .
+                         [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("icons" .
+           [1 0 0 0 0])
+  ("categoryView" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("category" .
+              [0 0 0 0 0 0 0 4])
+  ("pointSize" .
+               [0 0 0 0 0 0 0 0 1])
+  ("font" .
+          [0 0 2 1])
+  ("for" .
+         [15 0 3])
+  ("shadow" .
+            [1 0 0 0 0 0])
+  ("CGColor" .
+             [0 1 0 0 0 0 2])
+  ("book" .
+          [0 0 0 1])
+  ("systemFontOfSize" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("UIFont" .
+            [0 0 0 0 0 1])
+  ("whiteColor" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("DARK_BLUE" .
+               [0 0 0 0 0 0 0 0 1])
+  ("GRAY" .
+          [0 0 0 1])
+  ("UIControlStateHighlighted" .
+                               [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("icon" .
+          [0 0 0 1])
+  ("NSLog" .
+           [0 0 0 0 2])
+  ("text" .
+          [0 1 1 0])
+  ("super" .
+           [0 0 1 0 0])
+  ("array" .
+           [1 0 0 0 1])
+  ("DISPLAY_ICON_NNUMBER" .
+                          [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("addObject" .
+               [0 0 0 0 0 0 0 0 1])
+  ("setupDisplay" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("newpage" .
+             [0 0 0 0 0 0 1])
+  ("NSMutableArray" .
+                    [0 0 1 0 0 0 0 0 0 0 0 0 0 11])
+  ("UIButtonTypeRoundedRect" .
+                             [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DisplayIconView" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 6])
+  ("buttonWithType" .
+                    [0 0 3 0 0 0 0 0 0 0 0 0 0 1])
+  ("titleLabel" .
+                [0 3 1 0 0 4 0 0 0 7])
+  ("createButtonWithFrame" .
+                           [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("creat" .
+           [0 0 0 0 1])
+  ("UIView" .
+            [0 0 0 0 0 2])
+  ("addSubview" .
+                [0 0 0 0 0 0 0 0 0 3])
+  ("colorWithCGColor" .
+                      [0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("textColor" .
+               [0 1 1 0 0 0 0 0 0])
+  ("createUI" .
+              [0 0 0 0 0 0 1 0])
+  ("result" .
+            [3 0 0 51 4 40])
+  ("UIButton" .
+              [1 0 0 0 0 0 0 22])
+  ("highLightedColor" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("shadowColor" .
+                 [0 0 0 0 0 0 1 0 0 0 1])
+  ("@synthesize" .
+                 [0 0 9 0 0 0 0 0 0 0 10])
+  ("ScrollView" .
+                [0 0 0 0 0 1 0 0 0 0])
+  ("contentSize" .
+                 [0 0 0 0 0 0 0 1 0 0 0])
+  ("CGSizeMake" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("CGRect" .
+            [0 0 0 0 0 2])
+  ("layoutSubviews" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 5])
+  ("imp" .
+         [0 0 1])
+  ("initWith" .
+              [0 0 0 0 1 0 0 1])
+  ("ScrollPageController" .
+                          [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("frameOfScrollView" .
+                       [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("frame" .
+           [1 1 0 0 1])
+  ("arrayWithObjects" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("NSArray" .
+             [0 0 1 0 0 0 8])
+  ("pagingViews" .
+                 [0 0 0 3 0 0 0 0 0 0 1])
+  ("HEIGHT" .
+            [0 0 0 0 0 2])
+  ("WIDTH" .
+           [0 0 0 0 2])
+  ("initWithFrame" .
+                   [0 0 0 0 8 0 0 0 2 0 0 0 1])
+  ("ScrollPageView" .
+                    [0 0 0 0 0 0 4 0 0 0 0 0 0 1])
+  ("UITableViewCell" .
+                     [0 0 0 0 0 0 0 0 0 0 0 3 0 0 0])
+  ("TextFieldCell" .
+                   [0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("import" .
+            [17 0 3 1 0 13])
+  ("function" .
+              [1 0 0 1 1 0 0 1])
+  ("Cygwin" .
+            [1 0 0 0 0 1])
+  ("mac_settings" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("aut" .
+         [0 0 1])
+  ("add-to-list" .
+                 [1 0 0 0 0 0 0 1 0 0 0])
+  ("js-indent-hook" .
+                    [0 0 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("js-proper-indentation" .
+                           [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("background" .
+                [1 0 0 0 0 0 0 0 0 2])
+  ("margin" .
+            [0 0 4 0 0 1])
+  ("__main__" .
+              [0 0 1 0 0 0 0 0])
+  ("SimpleClass" .
+                 [0 0 0 0 0 0 0 0 0 0 2])
+  ("__name__" .
+              [0 0 0 0 0 0 0 1])
+  ("nxml-mode-hooks" .
+                     [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("auto-mode-alist" .
+                     [0 0 0 0 0 0 0 1 0 0 0 1 0 0 0])
+  ("Auto" .
+          [1 0 0 0])
+  ("nxml-mode" .
+               [0 0 2 0 0 0 0 0 0])
+  ("cons" .
+          [1 0 0 0])
+  ("addBtn" .
+            [0 0 0 1 0 0])
+  ("UIBarButtonSystemItemEdit" .
+                               [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UIBarButtonSystemItemAdd" .
+                              [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+          [2 0 0 0])
+  ("when" .
+          [2 0 0 0])
+  ("defun" .
+           [2 0 0 0 0])
+  ("objc-mode-hook" .
+                    [0 0 0 0 0 0 0 0 0 1 1 0 0 0])
+  ("add-hook" .
+              [1 0 0 1 0 0 0 0])
+  ("objc-indent-hook" .
+                      [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("UIBarButtonSystemItemCancel" .
+                                 [0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UIBarButtonItem" .
+                     [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("UIBarButton" .
+                 [0 0 0 0 0 0 0 0 0 0 3])
+  ("<div" .
+          [0 0 0 1])
+  ("document" .
+              [0 0 0 0 0 0 0 1])
+  ("FlyJSONP" .
+              [0 0 0 0 0 0 0 1])
+  ("init" .
+          [0 0 0 2])
+  ("debug" .
+           [0 0 1 0 0])
+  ("textLabel" .
+               [0 0 1 0 0 0 0 0 0])
+  ("UIPickerView" .
+                  [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("uiPicker" .
+              [0 0 0 0 0 0 0 1])
+  ("picker" .
+            [0 0 0 0 0 1])
+  ("Institute" .
+               [0 0 1 0 0 0 0 0 1])
+  ("InputValueViewContorller" .
+                              [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UINavigationController" .
+                            [0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 3])
+  ("initWithTitle" .
+                   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("initWithRootViewController" .
+                                [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("CategoryViewController" .
+                            [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("image" .
+           [0 0 2 0 0])
+  ("ItemListByDateViewController" .
+                                  [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("backgroundColor" .
+                     [0 0 0 0 0 0 0 0 0 0 1 0 0 0 11])
+  ("UIColor" .
+             [1 0 0 0 11 0 3])
+  ("UIScrollView" .
+                  [0 0 0 0 0 4 0 0 0 0 0 0])
+  ("scrollView" .
+                [0 0 3 0 0 5 0 0 0 1])
+  ("UIPageControl" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("pageControl" .
+                 [0 0 0 1 3 0 0 0 0 0 0])
+  ("_scrollView" .
+                 [0 0 0 0 0 0 0 0 0 0 3])
+  ("_pageControl" .
+                  [0 0 0 0 0 0 0 0 0 0 0 4])
+  ("application" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("clearColor" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("blackColor" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("pageControlUsed" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("_pageControlUsed" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("@interface" .
+                [0 0 0 0 0 0 0 0 0 7])
+  ("CategoryView" .
+                  [0 0 0 0 0 0 0 0 1 0 0 9])
+  ("@property" .
+               [0 0 0 0 1 0 0 0 11])
+  ("nonatomic" .
+               [0 0 0 0 0 0 0 0 13])
+  ("strong" .
+            [0 1 4 2 0 1])
+  ("NSInteger" .
+               [0 0 0 0 1 0 0 0 9])
+  ("MARGIN_X" .
+              [0 0 0 0 0 0 0 2])
+  ("MARGIN_Y" .
+              [0 0 0 0 0 0 0 2])
+  ("WIDTH_OF_BUTTON" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("Y_STEP" .
+            [0 0 0 0 0 1])
+  ("X_STEP" .
+            [0 0 0 0 0 1])
+  ("HEIGHT_OF_BUTTON" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("NSString" .
+              [0 0 1 4 0 0 0 19])
+  ("button" .
+            [0 0 1 0 0 0])
+  ("iconNames" .
+               [0 0 0 0 2 0 0 0 0])
+  ("SetTransactionController" .
+                              [0 0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dataSource" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("SetTransactionControllerDelegte" .
+                                     [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("topViewController" .
+                       [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("InputValueViewTest" .
+                        [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("InputValueView" .
+                    [0 0 4 0 0 0 0 0 0 0 0 0 0 0])
+  ("number" .
+            [0 0 0 0 0 2])
+  ("CategoryViewTest" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ICON_WIDTH" .
+                [0 0 0 0 0 2 0 0 0 0])
+  ("ICON_HEIGHT" .
+                 [0 0 0 0 0 2 0 0 0 0 0])
+  ("DisplayIconsView" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("_inputValueView" .
+                     [0 0 0 0 0 0 0 0 0 0 0 1 0 0 4])
+  ("inputValueView" .
+                    [0 0 3 0 0 0 0 0 0 0 0 0 0 0])
+  ("stack" .
+           [0 0 0 1 1])
+  ("_number" .
+             [0 0 0 0 0 0 1])
+  ("current" .
+             [0 0 0 0 0 0 1])
+  ("NSNumberFormatterCurrencyStyle" .
+                                    [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setLocale" .
+               [0 0 0 1 0 0 0 0 0])
+  ("setNumberStyle" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getCurrencyUnit" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("trimTopChar" .
+                 [0 0 1 0 0 0 0 0 0 0 0])
+  ("string2Currency" .
+                     [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("InputValueModel" .
+                     [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("currency" .
+              [0 0 2 0 0 0 0 0])
+  ("pushNumber" .
+                [0 0 0 0 1 0 0 0 0 0])
+  ("indexOfValueView" .
+                      [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("indexOfTextFieldView" .
+                          [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("enableKeyboard" .
+                    [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("currentPage" .
+                 [0 0 2 0 0 0 0 0 0 0 0])
+  ("textFieldView" .
+                   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("deselectIcon" .
+                  [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("newEntry" .
+              [0 0 0 3 0 0 0 4])
+  ("title" .
+           [0 0 0 0 4])
+  ("C" .
+       [1])
+  ("UITableViewCellStyleDefault" .
+                                 [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("initWithStyle" .
+                   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("tableViewStyle" .
+                    [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("_title" .
+            [1 0 0 0 0 1])
+  ("_titleLabel" .
+                 [0 0 0 0 0 0 5 0 0 0 0])
+  ("_valueLabel" .
+                 [0 0 0 0 0 0 1 0 0 0 0])
+  ("stringWithFormat" .
+                      [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("_dateLabel" .
+                [0 0 0 0 0 2 0 0 0 0])
+  ("IBAction" .
+              [0 0 0 0 0 0 0 2])
+  ("music" .
+           [0 0 0 0 1])
+  ("transFormPrefs" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("UITableViewDelegate" .
+                         [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("IBOutlet" .
+              [0 0 1 0 0 0 0 1])
+  ("UITableView" .
+                 [0 0 0 0 0 0 0 0 0 0 5])
+  ("identifier" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("_tableView" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("nibNameOrNil" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("nibBundleOrNil" .
+                    [0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("members" .
+             [0 0 0 0 0 0 3])
+  ("heightAddPlayer" .
+                     [0 0 0 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("heightOfTable" .
+                   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("heightOfCell" .
+                  [0 0 0 0 0 0 2 0 0 0 0 0])
+  ("heightOfVisible" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("marginY" .
+             [0 0 0 1 0 0 0])
+  ("deckImage" .
+               [0 0 0 0 1 0 0 0 0])
+  ("summarize" .
+               [0 0 0 0 0 0 1 0 0])
+  ("titles" .
+            [0 0 0 0 0 2])
+  ("summaries" .
+               [0 0 0 0 0 0 3 0 0])
+  ("wordcount" .
+               [0 0 0 0 8 0 0 0 3])
+  ("words" .
+           [0 0 0 0 2])
+  ("get_wordcount" .
+                   [0 0 0 0 0 0 0 0 4 0 0 0 0])
+  ("wordcounts" .
+                [0 0 0 0 7 0 0 0 0 0])
+  ("apcount" .
+             [0 0 3 0 0 0 0])
+  ("get_words" .
+               [0 0 0 0 0 0 0 0 1])
+  ("get_wordlist" .
+                  [0 0 0 0 0 0 0 0 2 0 0 0])
+  ("setdefault" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("word" .
+          [1 1 0 12])
+  ("open" .
+          [0 0 0 1])
+  ("wordlist" .
+              [0 0 0 0 5 0 0 0])
+  ("get_word" .
+              [0 0 0 0 0 0 0 1])
+  ("read_feed" .
+               [0 0 1 0 0 0 0 0 0])
+  ("wordcounts_with_title" .
+                           [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("write_wordcount" .
+                     [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("create_blogdata" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("items" .
+           [0 0 0 0 1])
+  ("video_url_matcher" .
+                       [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("contents" .
+              [0 0 1 0 0 0 0 0])
+  ("datasets" .
+              [0 0 0 0 0 0 0 1])
+  ("digits" .
+            [0 0 0 0 1 8])
+  ("joblib" .
+            [0 0 0 0 0 1])
+  ("remove_exeatttr" .
+                     [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("run_tox" .
+             [0 0 0 0 0 0 1])
+  ("background-color" .
+                      [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 11])
+  ("veryLightBlue" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("gray" .
+          [0 0 0 1])
+  ("grayDarker" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("entries" .
+             [0 1 0 0 0 0 0])
+  ("h3fs" .
+          [0 0 0 1])
+  ("h4fs" .
+          [0 0 1 0])
+  ("h4pt" .
+          [0 0 1 0])
+  ("h4pb" .
+          [0 0 1 0])
+  ("bar" .
+         [1 0 1])
+  ("isstr" .
+           [0 0 1 0 0])
+  ("_barwidth" .
+               [0 0 0 0 0 0 0 0 1])
+  ("default" .
+             [0 0 1 0 0 0 0])
+  ("queries" .
+             [0 0 1 0 0 0 0])
+  ("Options" .
+             [0 0 1 0 0 0 0])
+  ("isnormal" .
+              [0 0 1 0 0 0 0 0])
+  ("build" .
+           [0 0 0 0 1])
+  ("fibonacci_number" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("get_fb" .
+            [0 0 0 0 0 1])
+  ("iseven" .
+            [0 0 0 0 0 1])
+  ("Integer" .
+             [0 0 1 1 0 0 3])
+  ("collatz" .
+             [0 0 4 0 0 7 0])
+  ("collaz" .
+            [0 0 0 0 0 1])
+  ("memorize_collatz" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6])
+  ("temp_index" .
+                [0 0 0 0 2 0 0 0 0 0])
+  ("seek" .
+          [0 0 0 1])
+  ("temp" .
+          [2 0 0 1])
+  ("new_collatz" .
+                 [0 0 0 0 0 0 0 0 0 0 2])
+  ("getnumber_at" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ISABEL" .
+            [2 0 0 0 0 0])
+  ("i" .
+       [2])
+  ("sumofdivisor" .
+                  [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("isabundant" .
+                [0 0 3 4 2 0 0 0 0 0])
+  ("datasetList" .
+                 [1 0 0 1 0 0 0 0 0 0 1])
+  ("dataset" .
+             [2 0 0 4 2 0 0])
+  ("isContained" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("iscontained" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("QCheckBox" .
+               [0 0 0 0 0 0 0 0 1])
+  ("vlayout" .
+             [0 0 0 0 0 0 1])
+  ("addWidget" .
+               [0 0 0 0 0 0 0 0 1])
+  ("check" .
+           [0 0 0 0 1])
+  ("checks" .
+            [0 0 0 0 0 1])
+  ("checkedName" .
+                 [0 0 0 0 0 1 0 0 0 0 0])
+  ("close" .
+           [0 0 0 0 1])
+  ("setDataSet2ItemList" .
+                         [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("PlotSourceWidgetController" .
+                                [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("prepareWidgets" .
+                    [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("connectWidget2Function" .
+                            [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("currentDataChanged" .
+                        [0 0 0 3 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("dbhandle" .
+              [0 1 1 0 0 0 0 1])
+  ("checkedNames" .
+                  [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("cur" .
+         [0 0 1])
+  ("s" .
+       [1])
+  ("plotlist" .
+              [0 0 3 0 3 0 0 0])
+  ("hasattr" .
+             [0 0 0 0 0 0 1])
+  ("xticks" .
+            [0 0 1 0 0 0])
+  ("yticks" .
+            [0 0 0 0 0 1])
+  ("return" .
+            [8 0 0 0 1 2])
+  ("session" .
+             [0 0 3 0 0 0 0])
+  ("fetchPlotData" .
+                   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("fetchPlotSource" .
+                     [0 0 0 0 0 0 0 0 0 5 0 0 0 0 0])
+  ("self" .
+          [0 0 1 0])
+  ("plotdata" .
+              [0 0 0 0 0 0 0 1])
+  ("append" .
+            [3 0 0 1 0 1])
+  ("WidgetController" .
+                      [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("relationship" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("backref" .
+             [0 0 0 0 0 0 1])
+  ("dir" .
+         [0 0 1])
+  ("directory" .
+               [0 0 0 1 0 0 0 0 3])
+  ("def" .
+         [11 1 0])
+  ("parse" .
+           [5 0 1 0 0])
+  ("l_expect" .
+              [0 0 0 0 0 0 0 2])
+  ("t_expect" .
+              [0 0 0 0 0 0 0 1])
+  ("get_link" .
+              [0 0 0 0 0 0 0 1])
+  ("STOP" .
+          [0 0 0 4])
+  ("PAUSE" .
+           [0 0 0 0 1])
+  ("ACTIVE" .
+            [0 0 0 0 0 3])
+  ("state" .
+           [0 0 0 1 0])
+  ("ClawlerBot" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("is_stop" .
+             [0 0 0 0 0 0 1])
+  ("clawler" .
+             [0 0 0 1 0 0 0])
+  ("is_eualtype" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("is_equaltype" .
+                  [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("worker_url" .
+                [0 0 0 0 0 0 1 0 0 0])
+  ("identity" .
+              [0 0 0 1 0 1 0 1])
+  ("client_nbr" .
+                [0 0 1 0 0 0 2 0 0 0])
+  ("NBR_CLIENTS" .
+                 [0 0 0 0 2 0 0 0 0 0 1])
+  ("bckendsock" .
+                [0 0 0 0 0 0 1 0 0 0])
+  ("ZMQStream" .
+               [0 0 0 1 0 0 0 0 0])
+  ("frtendsock" .
+                [0 0 0 0 0 0 1 0 0 0])
+  ("bckend" .
+            [0 0 0 0 0 1])
+  ("available_workers" .
+                       [0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 1])
+  ("NBR_WORKERS" .
+                 [0 0 0 0 0 0 0 0 0 0 2])
+  ("worker_addr" .
+                 [0 0 0 0 0 0 1 0 0 0 0])
+  ("client_addr" .
+                 [0 0 1 0 0 0 1 0 0 0 0])
+  ("frtend" .
+            [0 0 0 0 0 1])
+  ("handle_bckend" .
+                   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("requ" .
+          [0 0 0 1])
+  ("on_recieved" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("poller" .
+            [1 0 0 0 0 0])
+  ("Poller" .
+            [0 0 0 0 1 0])
+  ("xsub" .
+          [0 1 0 0])
+  ("SUB" .
+         [0 0 2])
+  ("on_subscipting" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("subscition" .
+                [0 0 0 2 0 0 0 0 0 0])
+  ("Publisher" .
+               [0 0 0 0 0 0 0 0 2])
+  ("Subscriber" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("subscribe" .
+               [0 0 0 1 0 0 0 0 0])
+  ("on_subscribing" .
+                    [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("Socket" .
+            [0 0 0 0 0 1])
+  ("eps" .
+         [0 0 1])
+  ("eps_mat" .
+             [0 0 0 0 0 0 1])
+  ("penalty" .
+             [0 0 0 0 0 0 1])
+  ("<strong>" .
+              [0 0 0 1 0 0 0 3])
+  ("nodes4idx" .
+               [0 0 0 0 2 1 0 0 0])
+  ("nodes4xy" .
+              [0 0 0 0 1 0 0 0])
+  ("aroundxy" .
+              [0 0 1 0 0 0 0 0])
+  ("get_around_idxs" .
+                     [0 0 0 0 1 0 0 0 0 0 0 0 0 0 1])
+  ("pred_aidxs" .
+                [0 0 0 0 0 0 0 0 0 4])
+  ("aidxs" .
+           [0 0 0 0 2])
+  ("around" .
+            [0 0 0 0 0 1])
+  ("linewidth" .
+               [0 0 0 0 1 0 0 0 2])
+  ("pointtype" .
+               [0 0 0 0 0 1 0 0 1])
+  ("pointsize" .
+               [0 0 0 0 0 2 0 0 0])
+  ("ticks" .
+           [0 0 0 0 1])
+  ("Setting" .
+             [0 0 0 0 0 0 2])
+  ("divisionX" .
+               [0 0 0 0 0 0 0 0 5])
+  ("gridxstep" .
+               [0 2 0 0 1 0 0 0 0])
+  ("gridystep" .
+               [0 0 0 0 1 0 0 0 0])
+  ("grid" .
+          [0 0 0 1])
+  ("DISTNAME" .
+              [0 0 0 0 0 0 0 1])
+  ("VERSION" .
+             [0 0 0 0 0 0 1])
+  ("DESCRIPTION" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("AUTHOR" .
+            [0 0 0 0 0 1])
+  ("AUTHORR_EMAIL" .
+                   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("URL" .
+         [0 0 1])
+  ("LONG_DESCRIPTION" .
+                      [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("REQUIRES" .
+              [0 0 1 0 0 0 0 0])
+  ("PACKAGES" .
+              [0 0 0 0 0 0 0 1])
+  ("EXTRAS" .
+            [0 0 0 0 0 1])
+  ("TEST_REQUIRE" .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("TEST_SUITE" .
+                [0 0 0 0 0 1 0 0 0 0])
+  ("LICENSE" .
+             [0 1 0 0 0 0 1])
+  ("CLASSIFIERS" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("build_doc" .
+               [0 0 0 0 1 0 0 0 0])
+  ("VertexBase" .
+                [0 0 0 0 2 0 0 0 0 1])
+  ("AttributeError" .
+                    [0 0 0 1 0 0 0 0 0 0 0 0 0 1])
+  ("Base" .
+          [0 0 0 1])
+  ("ver" .
+         [0 0 1])
+  ("Vertices" .
+              [0 0 0 1 1 0 0 0])
+  ("Vertex2D" .
+              [0 0 0 0 9 0 1 4])
+  ("coords" .
+            [1 0 0 0 0 0])
+  ("ValueError" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("raise_value_error" .
+                       [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ZeroDivisionError" .
+                       [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("length" .
+            [0 0 1 0 0 0])
+  ("A" .
+       [1])
+  ("BinaryTree" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("existing_coords" .
+                     [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("1" .
+       [1])
+  ("furthest_site" .
+                   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("incremental" .
+                 [0 0 0 1 0 0 0 0 0 0 0])
+  ("inner_vertices" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Loop" .
+          [0 1 0 0])
+  ("interval" .
+              [0 0 0 0 1 0 0 0])
+  ("electrode_width" .
+                     [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("describe-location" .
+                       [0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("describe-path" .
+                   [0 0 2 0 0 0 0 0 0 1 0 0 0])
+  ("garden" .
+            [0 0 0 0 0 3])
+  ("assoc" .
+           [0 0 0 0 1])
+  ("describe-paths" .
+                    [0 0 1 0 0 0 0 0 0 1 0 0 0 0])
+  ("whiskey" .
+             [0 0 0 0 0 0 1])
+  ("living-room." .
+                  [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("objects-at" .
+                [0 0 0 1 0 0 0 0 0 3])
+  ("living-room" .
+                 [0 0 0 0 0 0 0 0 0 0 2])
+  ("*objects*" .
+               [0 0 0 0 0 0 0 2 0])
+  ("*object-locations*" .
+                        [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1])
+  ("describe-" .
+               [0 0 0 0 0 0 0 0 3])
+  ("obj" .
+         [0 0 1])
+  ("describe-obj" .
+                  [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("describe-objects" .
+                      [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("defparameter" .
+                  [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("object" .
+            [0 0 0 0 0 2])
+  ("inventory" .
+               [0 0 0 0 0 0 0 0 1])
+  ("game-" .
+           [0 0 0 0 1])
+  ("pandigitals" .
+                 [0 0 0 0 0 0 0 0 0 0 1])
+  ("subroutine" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("place_slab" .
+                [0 0 0 0 0 0 0 0 0 2])
+  ("precision" .
+               [0 0 0 0 0 0 0 0 2])
+  ("model_data" .
+                [0 0 0 0 0 1 0 0 0 0])
+  ("az" .
+        [1 0])
+  ("program" .
+             [0 1 0 0 0 0 1])
+  ("initial-frame-alist" .
+                         [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ciffiles" .
+              [0 0 0 0 0 0 0 1])
+  ("is_endcif" .
+               [0 0 0 0 0 0 0 0 2])
+  ("idnumber" .
+              [0 0 0 1 0 0 0 2])
+  ("match" .
+           [3 0 1 2 1])
+  ("get_value_ornone" .
+                      [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("CIFKEYS" .
+             [0 1 0 0 0 0 0])
+  ("bvsparam_ver" .
+                  [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("ref_list" .
+              [0 0 0 2 0 0 0 0])
+  ("refid_list" .
+                [0 0 0 0 0 0 0 0 0 1])
+  ("bvsparam_" .
+               [0 0 0 0 0 1 0 0 0])
+  ("bvsparam_atom1" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("bvsparam_refid" .
+                    [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("bvsparam_detail" .
+                     [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("bvsparam_Ro" .
+                 [0 0 0 1 0 0 0 0 0 0 0])
+  ("alias" .
+           [15 0 0 0 0])
+  ("path" .
+          [2 0 0 0])
+  ("tmux" .
+          [1 0 0 0])
+  ("func_tmux" .
+               [0 0 0 0 1 0 0 0 0])
+  ("make" .
+          [1 0 0 0])
+  ("main" .
+          [2 0 0 0])
+  ("cols" .
+          [6 0 0 0])
+  ("train_data" .
+                [0 0 0 0 0 0 1 0 1 1])
+  ("RandomForestClassifier" .
+                            [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("model" .
+           [5 0 0 0 0])
+  ("nan" .
+         [4 0 0])
+  ("Age" .
+         [0 0 2])
+  ("age_median" .
+                [0 0 0 0 1 1 0 1 0 0])
+  ("if" .
+        [1 0])
+  ("else" .
+          [1 0 0 0])
+  ("tolist" .
+            [1 0 0 0 0 0])
+  ("astype" .
+            [0 0 3 0 0 0])
+  ("read_csv" .
+              [1 0 0 0 0 0 0 0])
+  ("df_test" .
+             [10 0 0 0 0 0 1])
+  ("drop" .
+          [1 0 0 0])
+  ("dropna" .
+            [1 0 0 0 0 0])
+  ("test_data" .
+               [1 0 0 0 2 0 0 0 0])
+  ("output" .
+            [0 0 0 2 0 0])
+  ("int" .
+         [2 0 0])
+  ("df_result" .
+               [0 0 0 0 0 1 2 0 0])
+  ("then" .
+          [1 0 0 0])
+  ("TERM" .
+          [1 0 0 0])
+  ("light" .
+           [4 0 0 0 0])
+  ("nil" .
+         [2 0 0])
+  ("uname" .
+           [1 0 0 0 0])
+  ("set4general" .
+                 [0 0 0 0 0 0 0 0 1 0 0])
+  ("true" .
+          [1 0 0 0])
+  ("LinearRegression" .
+                      [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("math" .
+          [1 0 0 0])
+  ("datetime" .
+              [2 0 0 0 0 0 0 0])
+  ("lab" .
+         [6 0 0])
+  ("lablist" .
+             [3 0 0 1 0 0 0])
+  ("elif" .
+          [0 0 1 0])
+  ("time" .
+          [4 0 0 0])
+  ("sleep" .
+           [2 0 0 0 0])
+  ("seed" .
+          [1 0 0 0])
+  ("package" .
+             [0 0 0 0 1 0 0])
+  ("package-archives" .
+                      [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("appid" .
+           [0 0 0 1 0])
+  ("filter" .
+            [1 0 0 0 0 0])
+  ("filter_" .
+             [1 0 0 0 0 0 0])
+  ("slider/slider4" .
+                    [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("png" .
+         [1 0 0])
+  ("filename" .
+              [1 0 2 0 0 0 0 0])
+  ("line" .
+          [13 0 0 0])
+  ("matcher_lr" .
+                [1 0 1 0 0 0 0 0 0 0])
+  ("group" .
+           [1 0 1 0 0])
+  ("size" .
+          [2 0 0 0])
+  ("matcher_size" .
+                  [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("float" .
+           [3 0 0 0 0])
+  ("ylist" .
+           [9 0 0 0 0])
+  ("msint" .
+           [1 0 0 0 0])
+  ("calc_msint" .
+                [0 0 1 0 0 0 0 0 0 0])
+  ("comp" .
+          [2 0 0 0])
+  ("weight" .
+            [2 0 0 1 1 0])
+  ("atoms" .
+           [5 0 0 1 0])
+  ("PROB_ISOTOPE" .
+                  [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("in" .
+        [2 0])
+  ("calc_weight" .
+                 [1 0 0 0 0 0 0 0 0 0 0])))

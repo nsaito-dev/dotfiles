@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated File - Edits may get overridden-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="WorkspaceInfo">
+    <XefWsInfoVersion>2</XefWsInfoVersion>
+    <XefSourceRoot>C:\BA\286\s</XefSourceRoot>
+    <XefOutputRoot>C:\BA\286\b</XefOutputRoot>
+    <XefIntermediateRoot>C:\BA\286\i</XefIntermediateRoot>
+    <XefToolRoot>C:\PES\Cache\BuildPackages\Xbox.Engineering.Settings.1.5.200103002</XefToolRoot>
+    <XesSettings>C:\PES\Cache\BuildPackages\Xbox.Engineering.Settings.1.5.200103002\build</XesSettings>
+    <XesBuildEnvironment>Production</XesBuildEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Label="LegacyWorkspaceInfo">
+    <SourceRoot>$(XefSourceRoot)</SourceRoot>
+    <OutputRoot>$(XefOutputRoot)</OutputRoot>
+    <IntermediateRoot>$(XefIntermediateRoot)</IntermediateRoot>
+    <ExternalRoot>$(XefExternalRoot)</ExternalRoot>
+    <ToolRoot>$(XefToolRoot)</ToolRoot>
+  </PropertyGroup>
+</Project>

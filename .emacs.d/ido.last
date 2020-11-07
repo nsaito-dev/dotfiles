@@ -1,0 +1,274 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/nsaito/Google Drive/home/Applications/" . "Jump-Location-0.6.0/")
+ ("c:/Users/nsaito/Google Drive/home/" . "Applications/")
+ ("g:/My Drive/home/Documents/［研究室］ホームページ/191229update/" . ".backup/")
+ ("g:/My Drive/home/Documents/TUS_Kondo-Lab/data/B4_Kakitani/" . "pred_surfactant_props/")
+ ("g:/" . "My Drive/")
+ ("c:/Users/nsaito/Google Drive/dotfiles/" . ".emacs.d/")
+ ("g:/My Drive/dotfiles/" . ".emacs.d/")
+ ("g:/My Drive/" . "dotfiles/")
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/rietan/" . "sample8/")
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/" . "rietan/")
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/" . "151201_SPring-8/")
+ ("d:/NIMS_201410-201803/Data_201410-201709/" . "SPring-8/")
+ ("c:/Users/nsaito/Google Drive/" . "home/")
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Br_Cl_Again_cnv CASTEP Energy/" . "SCF/")
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Cl_I_Again_cnv CASTEP Energy/" . "Cl_I_Again_cnv CASTEP Energy/")
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Cl_Cl_Again_cnv CASTEP Energy/" . "SCF/")
+ ("d:/Data_DFT_TUS/MS_Files/Documents/" . "I_Br_Again_cnv CASTEP Energy/")
+ ("c:/Users/nsaito/AppData/" . "LocalLow/")
+ ("c:/Users/nsaito/" . "Google Drive/")
+ ("c:/Users/" . "nsaito/")
+ ("c:/" . "Users/")
+ ("/Users/saitonorio/Google Drive/dotfiles/" . ".emacs.d/")
+ ("/Users/saitonorio/Google Drive/" . "dotfiles/")
+ ("/Users/saitonorio/" . "Google Drive/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/nsaito/"
+ "g:/My Drive/home/Documents/［研究室］ホームページ/20829update/"
+ "c:/Users/nsaito/Google Drive/research_data/200611/PXRD_MAMo6X14/rietan/"
+ "g:/My Drive/home/Documents/TUS_Kondo-Lab/python_ML/"
+ "g:/My Drive/home/Documents/paperworks/Nishiyama_paper/Nishiyama/WinGX_203K/"
+ "g:/My Drive/home/Documents/paperworks/Nishiyama_paper/Nishiyama/WinGX_163K/"
+ "g:/My Drive/home/Documents/paperworks/Nishiyama_paper/Nishiyama/WinGX_113K/"
+ "g:/My Drive/home/Documents/［研究室］ホームページ/200330update/"
+ "g:/My Drive/home/Documents/［研究室］ホームページ/研究室HP/"
+ "c:/Users/nsaito/Desktop/15_3/tphase_fix-lat/with_Cs4/"
+ "g:/My Drive/home/Documents/［研究室］ホームページ/191229update/"
+ "g:/My Drive/home/Documents/［研究室］ホームページ/191229update/.backup/"
+ "c:/Users/nsaito/Desktop/dcstil_work/"
+ "g:/My Drive/home/Documents/［研究室］ホームページ/190907update/"
+ "c:/Users/nsaito/Develop/bayesian_filter/"
+ "d:/NIMS_201410-201803/Data_201410-201709/XRD/160211_CsX8XX6_150C1hGB/CsBr8Cl6/rietan/"
+ "c:/Users/nsaito/Desktop/rietan/"
+ "c:/Users/nsaito/Desktop/［研究室］ホームページ/研究室HP/"
+ "g:/My Drive/home/Documents/TUS_Kondo-Lab/data/B4_Kakitani/pred_surfactant_props/"
+ "c:/Users/nsaito/.emacs.d/"
+ "c:/Users/nsaito/Desktop/new/CMC_asp50K/2/"
+ "c:/Users/nsaito/Desktop/NIMS/SP8-2018A/rietveld/50K/CMC_purified_50K/sub_167/167_rietan/"
+ "g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/50K/CMCB_purified_50K/"
+ "g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/50K/CMC_purified_50K/conograph/trigonal_163/"
+ "c:/Users/nsaito/Google Drive/dotfiles/"
+ "c:/Users/nsaito/Desktop/conograph/monoclinic_15/"
+ "c:/Users/nsaito/Desktop/conograph/trigonal_147/"
+ "c:/Users/nsaito/Desktop/CMC_asprep_300K_120s_6/"
+ "g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/CMC_asprep_300K_120s_6/CMC_asprep_300K_120s_6_sg163-15/"
+ "g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/CMC_purified_300K_120s_1/"
+ "g:/My Drive/dotfiles/.emacs.d/"
+ "c:/Users/nsaito/Google Drive/dotfiles/.emacs.d/"
+ "d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/rietan/sample4/163/"
+ "d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/rietan/sample8/"
+ "c:/Users/nsaito/Desktop/"
+ "c:/ProgramData/"
+ "d:/Data_DFT_TUS/MS_Files/Documents/I_Br_Again_cnv CASTEP Energy/"
+ "d:/Data_DFT_TUS/MS_Files/Documents/I_I_Again_cnv CASTEP Energy/"
+ "d:/Data_DFT_TUS/MS_Files/Documents/I_Cl_Again_cnv CASTEP Energy/"
+ "d:/Data_DFT_TUS/MS_Files/Documents/Br_I_Again_cnv CASTEP Energy/"
+ "d:/Data_DFT_TUS/MS_Files/Documents/Br_Cl_Again_cnv CASTEP Energy/SCF/"
+ "d:/Data_DFT_TUS/MS_Files/Documents/Cl_I_Again_cnv CASTEP Energy/Cl_I_Again_cnv CASTEP Energy/"
+ "d:/Data_DFT_TUS/MS_Files/Documents/Cl_Cl_Again_cnv CASTEP Energy/SCF/"
+ "c:/tools/cmder/vendor/"
+ "/Users/saitonorio/Google Drive/dotfiles/.emacs.d/"
+ "/Users/saitonorio/Applications/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bashrc"
+ "publications-en.html"
+ "index.html"
+ "publications.html"
+ "research.html"
+ "rietan_.ins"
+ "calcmc.py"
+ "nmrdata.txt"
+ "203k1_fin.cif"
+ "203k1_fin.hkl"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/nsaito/" (24474 12211 30000 0) "./" "../" ".local/" ".emacs.d/" "Download/" ".bashrc" ".bash_logout" ".profile" "Applications/" ".bash_history" "Source/" ".python_history" "Documents/")
+
+ ("g:/My Drive/home/Documents/［研究室］ホームページ/20829update/" (24394 9951 0 0) "slider/" "images/" ".backup/" "user.css" "top_indexBg_1Sc.png" "top_banner_1Sc_01.png" "top_banner_1Sc_01-j.png" "tel_1Sc.png" "slick.min.js" "slick.js" "slick.css" "slick-theme.css" "returnTop_1Sc.png" "returnTop_1Sc-en.png" "research.html" "research-en.html" "publications.html" "publications-en.html" "point_1Sc.png" "photos.html" "photos-en.html" "navigation.js" "move-mainnav.js" "member.html" "member-en.html" "main_1Sc_2c.css" "mainmenu_1Sc_01_on.png" "mainmenu_1Sc_01.png" "mainmenuBg_1Sc.png" "logo_1Sc.png" "lity.min.js" "lity.min.css" "lity.js" "lity.css" "jquery.min.js" "jquery.js" "infoBg_1Sc_02.png" "infoBg_1Sc_01.png" "index.html" "index-en.html" "hpbparts.css" "headerBg_1Sc.png" "fpoint_1Sc.png" "footerBg_1Sc.png" "fBg_1Sc.png" "favicon.png" "favicon.ico" "content_title_1Sc.png" "container_1Sc_2c_top.css" "contact.html" "contact-en.html" "btn_menu.png" "bg_1Sc_01.png" "address_1Sc.png" "../" "./")
+
+ ("c:/Users/nsaito/Google Drive/research_data/200611/PXRD_MAMo6X14/rietan/" (24291 27631 0 0) "rietan_.ins" "rietan.lst" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.bat" ".backup/" ".#rietan.ins" "#rietan.ins#" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/" (24238 56340 0 0) "研究指導計画書/" "~$nuscript_v3.docx" "~$nuscript_v1.docx" "Task Manager.lnk" "Snipping Tool.lnk" "Remote Desktop Connection.lnk" "reentrant/" "QDs_ligand/" "Pt_complex/" "Perovskite_Ag/" "pdfs/" "Organogel_patent/" "organogel/" "organic_ferroelectric/" "NIMS/" "new/" "NCs_pfluoro/" "ice/" "File Explorer.lnk" "dosy/" "desktop_pdfs/" "desktop.ini" "Control Panel.lnk" "computer.lnk" "Command Prompt.lnk" "cluster_SiO2/" "cluster_amphiphile/" "Aydogan, Aldis - Langmuir - 2006.pdf" "acs.joc.7b02993.pdf" "a.txt" "1D-2D_perovskite/" "../" "./")
+
+ ("c:/Users/nsaito/Google Drive/dotfiles/.emacs.d/" (24239 53404 0 0) "url/" "themes/" "templates/" "templatemplate.scm" "server/" "recentf.txt" "public_repos/" "init.el" "ido.last" "elpa/" "elisp/" "conf/" "auto-save-list/" "ac-comphist.dat" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/.emacs.d/" (24239 53404 0 0) "url/" "themes/" "templates/" "templatemplate.scm" "server/" "recentf.txt" "public_repos/" "init.el" "ido.last" "elpa/" "elisp/" "conf/" "auto-save-list/" "ac-comphist.dat" ".backup/" "../" "./")
+
+ ("g:/My Drive/home/Documents/paperworks/Nishiyama_paper/Nishiyama/WinGX_113K/" (24214 48277 0 0) "113k1_fin_noH.cif" "shelxl.lst" "113k1_fin.INS" "113k1_fin.fcf" "113k1_fin.cif" "shelXlesaves/" "113k1_fin.hkl" ".backup/" "113k1_fin.res" "../" "./")
+
+ ("g:/My Drive/home/Documents/paperworks/Nishiyama_paper/Nishiyama/WinGX_163K/" (24214 48428 0 0) "163k1_fin_noH.cif" "shelxl.lst" "163k1_fin.INS" "163k1_fin.fcf" "163k1_fin.cif" "wgxTextServer.log" "163k1_fin.hkl" ".backup/" "163k1_fin.res" "../" "./")
+
+ ("g:/My Drive/home/Documents/paperworks/Nishiyama_paper/Nishiyama/WinGX_203K/" (24215 62910 0 0) "203k1_fin_nocation.cif" "203k1_fin_noH_tr.cif" "203k1_fin_noH.cif" "203k1_fin.fcf" "203k1_fin.cif" "shelXlesaves/" "wgxTextServer.log" "wgxJob.log" "project.info" "shelxl.lst" "203k1_fin.INS" "203k1_fin.hkl" ".backup/" "203k1_fin.res" "../" "./")
+
+ ("g:/My Drive/home/Documents/TUS_Kondo-Lab/python_ML/" (24241 3578 0 0) ".#tr6.py" "data.csv" "nmrdata2.txt" "nmrdata1.txt" "nmrdata3.txt" "tr6.py" "nmrdata.txt" ".backup/" "tr5.py" "leetcode_pr3.py" "leetcode_pr2.py" "leetcode_pr1.py" "tr4.py" "tr3.py" "tr2.py" "tr1.py" "../" "./")
+
+ ("c:/Users/nsaito/Google Drive/home/Applications/Jump-Location-0.6.0/" (23234 55306 0 0) "Types.ps1xml" "TabExpansion.ps1" "Readme.md" "Load.ps1" "License.md" "Jump.Location.psd1" "Jump.Location.Format.ps1xml" "Jump.Location.dll" "Install.ps1" "../" "./")
+
+ ("c:/Users/nsaito/Google Drive/home/Applications/" (24204 30350 0 0) "VESTA-win64/" "shelxle/" "shelx64/" "RIETAN_VENUS/" "platon/" "PDIndexer/" "pcw/" "Multiwfn_3.6_bin_Win64/" "msTornado/" "Jump-Location-0.6.0/" "jmol-14.29.16/" "jascow/" "ImageJ/" "Fox-1.9.7.1-R1317/" "Conograph_Win_0.9_JPN/" "ColorAC_0777/" "ChgKey15/" "CellRef/" "bruker/" "Bader/" "Absc2008/" "../" "./")
+
+ ("c:/Users/nsaito/Google Drive/home/" (23234 53809 0 0) "Applications/" "../" "./")
+
+ ("c:/ProgramData/" (24208 31142 0 0) "WindowsHolographicDevices/" "WaveMetrics, Inc/" "Validity/" "USOShared/" "USOPrivate/" "UIU/" "Templates/" "Synaptics/" "Start Menu/" "ssh/" "SoftwareDistribution/" "shimgen/" "Roaming/" "RICOH_OCH/" "RICOH_DRV/" "regid.1991-06.com.microsoft/" "regid.1986-12.com.adobe/" "PerkinElmerInformatics/" "Packages/" "Package Cache/" "OriginLab/" "Oracle/" "ntuser.pol" "Mozilla/" "Microsoft.SqlServer.Compact.400.64.bc" "Microsoft OneDrive/" "Microsoft/" "McAfee/" "Mathematica/" "Macrovision/" "Lenovo/" "JEOL/" "Intel/" "Git/" "EPSON/" "Documents/" "Desktop/" "CodeMeter/" "cm-lock" "Cisco/" "chocolatey/" "boost_interprocess/" "BIOVIA/" "Application Data/" "Apple Computer/" "Apple/" "Adobe/" "../" "./")
+
+ ("g:/My Drive/home/Documents/［研究室］ホームページ/190907update/" (23923 15958 0 0) ".backup/" "publications-en.html" "publications.html" "index.html" "../" "./")
+
+ ("g:/My Drive/home/Documents/［研究室］ホームページ/191229update/.backup/" (24072 20529 0 0) "publications-en.html~" "publications.html~" "index.html~" "../" "./")
+
+ ("g:/My Drive/home/Documents/［研究室］ホームページ/191229update/" (24072 28418 0 0) "publications-en.html" "publications.html" ".backup/" "index.html" "../" "./")
+
+ ("g:/My Drive/home/Documents/［研究室］ホームページ/研究室HP/" (24194 55148 0 0) "slider/" "images/" ".backup/" "user.css" "top_indexBg_1Sc.png" "top_banner_1Sc_01.png" "top_banner_1Sc_01-j.png" "tel_1Sc.png" "slick.min.js" "slick.js" "slick.css" "slick-theme.css" "returnTop_1Sc.png" "returnTop_1Sc-en.png" "research.html" "research-en.html" "publications.html" "publications-en.html" "point_1Sc.png" "photos.html" "photos-en.html" "navigation.js" "move-mainnav.js" "member.html" "member-en.html" "main_1Sc_2c.css" "mainmenu_1Sc_01_on.png" "mainmenu_1Sc_01.png" "mainmenuBg_1Sc.png" "logo_1Sc.png" "lity.min.js" "lity.min.css" "lity.js" "lity.css" "jquery.min.js" "jquery.js" "infoBg_1Sc_02.png" "infoBg_1Sc_01.png" "index.html" "index-en.html" "hpbparts.css" "headerBg_1Sc.png" "fpoint_1Sc.png" "footerBg_1Sc.png" "fBg_1Sc.png" "favicon.png" "favicon.ico" "content_title_1Sc.png" "container_1Sc_2c_top.css" "contact.html" "contact-en.html" "btn_menu.png" "bg_1Sc_01.png" "address_1Sc.png" "../" "./")
+
+ ("c:/Users/nsaito/Google Drive/" (24208 31235 0 0) "research_data/" "home/" "Getting started" "dotfiles/" "desktop.ini" ".tmp.drivedownload/" "../" "./")
+
+ ("c:/Users/" (24043 26206 0 0) "Public/" "nsaito/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/nsaito/" (24206 5378 0 0) "Videos/" "thumbnails/" "Templates/" "Start Menu/" "Sir2014.log" "share/" "shaderlog.txt" "SendTo/" "Searches/" "Saved Games/" "SAITO.Norio@nims.go.jp Creative Cloud Files/" "Roaming/" "Recent/" "PycharmProjects/" "PrintHood/" "platon.out" "Pictures/" "OneDrive/" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{6daa8a93-18cd-11ea-9acc-8c1645303dc4}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{6daa8a93-18cd-11ea-9acc-8c1645303dc4}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{6daa8a93-18cd-11ea-9acc-8c1645303dc4}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "Links/" "jump-location.txt.tmp" "jump-location.txt" "IntelGraphicsProfiles/" "gwyddion/" "Google Drive/" "GL-Extensions.txt" "FOX-Free Objects for Crystallography.ini" "Favorites/" "expo.log" "Downloads/" "Documents/" "Develop/" "Desktop/" "Creative Cloud Files/" "Cookies/" "Contacts/" "check.def" "Calibre Library/" "Application Data/" "AppData/" "Anaconda3/" "acs.inorgchem.8b02881.pdf" "a0884a65911fac1bf006ddac937e4bff.pdf" "3D Objects/" "26-DiMePy_D2O.txt" ".vscode.orig/" ".vscode/" ".topspin-LAPTOP-N5GAMUUV/" ".thumbnails/" ".ssh/" ".sir2014x86/" ".QtWebEngineProcess/" ".PyCharm2019.1/" ".Mendeley Desktop/" ".matplotlib/" ".jupyter/" ".ipython/" ".imagej/" ".hyper_plugins/" ".hyper.js.orig" ".hyper.js" ".gitconfig" ".gimp-2.8/" ".expo/" ".emacs.d/" ".config/" ".conda/" ".cisco/" ".bash_history" "../" "./")
+
+ ("c:/Users/nsaito/Documents/" (24208 29004 0 0) "受信したファイル/" "Wolfram Mathematica/" "WindowsPowerShell/" "WaveMetrics/" "TUS_software/" "saint_diagnostic_log.txt" "Python Scripts/" "OriginLab/" "OneNote ノートブック/" "Office のカスタム テンプレート/" "My Videos/" "My Pictures/" "My Music/" "My Kindle Content/" "Materials Studio Projects/" "KONDOLABWS2.rdp" "Downloads/" "desktop.ini" "Default.rdp" "CASTEP.rdp" "Adobe/" "../" "./")
+
+ ("g:/My Drive/home/Documents/［研究室］ホームページ/200330update/" (24200 14108 0 0) "slider/" "images/" ".backup/" "user.css" "top_indexBg_1Sc.png" "top_banner_1Sc_01.png" "top_banner_1Sc_01-j.png" "tel_1Sc.png" "slick.min.js" "slick.js" "slick.css" "slick-theme.css" "returnTop_1Sc.png" "returnTop_1Sc-en.png" "research.html" "research-en.html" "publications.html" "publications-en.html" "point_1Sc.png" "photos.html" "photos-en.html" "navigation.js" "move-mainnav.js" "member.html" "member-en.html" "main_1Sc_2c.css" "mainmenu_1Sc_01_on.png" "mainmenu_1Sc_01.png" "mainmenuBg_1Sc.png" "logo_1Sc.png" "lity.min.js" "lity.min.css" "lity.js" "lity.css" "jquery.min.js" "jquery.js" "infoBg_1Sc_02.png" "infoBg_1Sc_01.png" "index.html" "index-en.html" "hpbparts.css" "headerBg_1Sc.png" "fpoint_1Sc.png" "footerBg_1Sc.png" "fBg_1Sc.png" "favicon.png" "favicon.ico" "content_title_1Sc.png" "container_1Sc_2c_top.css" "contact.html" "contact-en.html" "btn_menu.png" "bg_1Sc_01.png" "address_1Sc.png" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/15_3/tphase_fix-lat/with_Cs4/" (24079 32122 0 0) "rietan.xyz" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.cif" "rietan.bat" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/dcstil_work/" (23929 64416 0 0) "190620dcstil_retry_0m_a_sx.res" "190620dcstil_retry_0m_a_sx.hkl" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/Develop/bayesian_filter/" (23794 26292 0 0) "untitled.txt" "Untitled.ipynb" "gihyo_bayesian_filter.py" "gihyo_bayesian_filter.ipynb" ".ipynb_checkpoints/" ".backup/" "../" "./")
+
+ ("d:/NIMS_201410-201803/Data_201410-201709/XRD/160211_CsX8XX6_150C1hGB/CsBr8Cl6/rietan/" (23790 7455 0 0) "rietan_profile.lst" "rietan_init.ins" "rietan.xyz" "rietan.prf" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.fos" "rietan.cif" "rietan.bat" "MPF_multi.command" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/rietan/" (23790 7347 0 0) "rietan_profile.lst" "rietan_init.ins" "rietan.xyz" "rietan.prf" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.fos" "rietan.cif" "rietan.bat" "MPF_multi.command" ".backup/" "../" "./")
+
+ ("g:/My Drive/dotfiles/.emacs.d/" (23393 21818 0 0) "conf/" "server/" "templatemplate.scm" "recentf.txt" "url/" "elisp/" "public_repos/" "templates/" "themes/" "auto-save-list/" "elpa/" ".backup/" "init.el" "ido.last" "ac-comphist.dat" "../" "./")
+
+ ("g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/CMC_purified_300K_120s_1/" (23395 2936 0 0) "rietan_.ins" "rietan.prf" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins" "rietan.inflip" "rietan.fos" "rietan.bat" "rietan.xyz" "P-31c_Cs2-split/" "P-31c_Cs3/" "#rietan.lst#" "P-31c_not-split/" ".backup/" "../" "./")
+
+ ("g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/CMC_asprep_300K_120s_6/CMC_asprep_300K_120s_6_sg163-15/" (23624 14169 0 0) "rietan.cif" "a.cif" ".tmp" "rietan.ins.temp" "#rietan.lst#" ".backup/" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins" "rietan.inflip" "rietan.bat" "rietan.xyz" "../" "./")
+
+ ("c:/Users/nsaito/Google Drive/dotfiles/" (23452 32314 0 0) "myalias.psm1" "Get-ChildItemColor.psm1" ".vscode/" ".hyper.js" ".emacs.d/" ".dircolors" ".bashrc" ".backup/" "../" "./")
+
+ ("g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/50K/CMC_purified_50K/conograph/trigonal_163/" (23458 60433 0 0) "subgroup/" "rietan.csv" "rietan.inflip" "rietan.prf" "rietan.fos" "rietan.xyz" "rietan.itx" "rietan.lst" "rietan.ins.temp" ".backup/" "rietan.ins" "rietan.bat" "rietan.int" "../" "./")
+
+ ("g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/50K/CMCB_purified_50K/" (23460 16511 0 0) "167_rietan/" "165_rietan/" "subgroup/" "half/" "rietan.inflip" "rietan.prf" "rietan.fos" "rietan.xyz" "rietan.itx" "rietan.lst" "rietan.ins.temp" ".backup/" "rietan.ins" "rietan.bat" "expo/" "auto_generated_files/" "rietan.int" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/NIMS/SP8-2018A/rietveld/50K/CMC_purified_50K/sub_167/167_rietan/" (23461 925 0 0) "rietan.xyz" "rietan.prf" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.fos" "rietan.bat" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/new/CMC_asp50K/2/" (23634 61843 0 0) "rietan.xyz" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.bat" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/［研究室］ホームページ/研究室HP/" (23739 1403 0 0) "user.css" "top_indexBg_1Sc.png" "top_banner_1Sc_01.png" "top_banner_1Sc_01-j.png" "tel_1Sc.png" "slider/" "slick.min.js" "slick.js" "slick.css" "slick-theme.css" "returnTop_1Sc.png" "returnTop_1Sc-en.png" "research.html" "research-en.html" "publications.html" "publications-en.html" "point_1Sc.png" "photos.html" "photos-en.html" "navigation.js" "move-mainnav.js" "member.html" "member-en.html" "main_1Sc_2c.css" "mainmenu_1Sc_01_on.png" "mainmenu_1Sc_01.png" "mainmenuBg_1Sc.png" "logo_1Sc.png" "lity.min.js" "lity.min.css" "lity.js" "lity.css" "jquery.min.js" "jquery.js" "infoBg_1Sc_02.png" "infoBg_1Sc_01.png" "index.html" "index-en.html" "images/" "hpbparts.css" "headerBg_1Sc.png" "fpoint_1Sc.png" "footerBg_1Sc.png" "fBg_1Sc.png" "favicon.png" "favicon.ico" "content_title_1Sc.png" "container_1Sc_2c_top.css" "contact.html" "contact-en.html" "btn_menu.png" "bg_1Sc_01.png" "address_1Sc.png" ".backup/" "../" "./")
+
+ ("g:/My Drive/home/Documents/TUS_Kondo-Lab/data/B4_Kakitani/pred_surfactant_props/" (23730 59399 0 0) ".backup/" ".gitignore" "dataset.xlsx" "../" "./")
+
+ ("g:/My Drive/home/Documents/TUS_Kondo-Lab/data/B4_Kakitani/" (23730 60464 0 0) "analysis_surfactant_props/" "pred_surfactant_props/" "../" "./")
+
+ ("g:/My Drive/home/Documents/TUS_Kondo-Lab/data/B4_Kakitani/analysis_surfactant_props/" (23730 60484 0 0) "README.md" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/nsaito/Develop/" (23704 58976 0 0) "../" "./")
+
+ ("c:/Users/nsaito/Downloads/" (23542 39795 0 0) "（外国出張）決裁手続の流れ.doc" "研究科長・学部長押印申請書(2018.5.1～）.doc" "液体窒素注文伝票（控）.xls" "様式第1号：若手研究者国際学会派遣申請書.docx" "施設宿泊・休日登校申込書(学生用).doc" "施設使用申込書(教職員用).doc" "手当支出依頼書(様式８).xlsx" "所属研究室の変更について（報告）＿院生.doc" "平成30年分　給与所得の源泉徴収票　確認・添付シート.docx" "就業規則及び就業規則関連規程（教員）.zip" "就業規則及び就業規則関連規程（教員）/" "奨学生募集について掲示（2019年度平和中島）.pdf" "出張旅費請求書(様式10).xls" "ルミネスバッジ着用者申込書(記入例・継続・新規).xls" "ご利用明細_201808.pdf" "【様式７】実績報告書.doc" "【様式６】経過報告書.doc" "【手順】Office365メールの転送設定の確認方法について.pdf" "【別紙一覧】H30有期雇用者に係る就業規則等一覧（教員）.pdf" "Ê¿À®30Ç¯ÅÙ¹©¶È²½³Ø²ÊÆâÀþ¡¦¥À¥¤¥ä¥ë¥¤¥óÈÖ¹æ°ìÍ÷.html" "Yr3DZtvSFiZ_nlRU5iCAZYn7ARg.gif" "ydkr_manu_v12.doc" "wingx_2014.1.zip" "wingx_2014.1/" "WinGX-license (1)" "windows-topspin3.5.7.al.exe" "VESTA-win64.zip" "VESTA-win64/" "untitled.cdx" "styl_s-22_1.doc" "styl_s-22_1 (1).doc" "Structure_10_19_2018_131041.mol" "Sir2014-17.10-32Setup.exe" "setupIgor8.exe" "Setup.X86.ja-jp_O365ProPlusRetail_066557e9-0717-497a-ae9d-561098e488f7_TX_SG_b_64_.exe" "sensors-08-06660.pdf" "scipy-1.1.0-cp36-cp36m-win_amd64.whl" "scikit_learn-0.19.1-cp36-cp36m-win_amd64.whl" "s95h264.exe" "S1H131855.pdf" "s-21.doc" "s-21 (1).doc" "README-DOWNLOAD" "RAE02020.pdf" "RAE02010.pdf" "prediction.zip" "prediction/" "predictedSpectrum.jdx" "PowDLL_Setup.zip" "PowDLL_Setup/" "polymers-09-00606.pdf" "polymers-09-00606 (1).pdf" "perf_s-22_2.doc" "perf_s-22_2 (1).doc" "PDIndexer.zip" "PDIndexer/" "pcw23.exe" "pandas-0.23.0-cp36-cp36m-win_amd64.whl" "numpy-1.14.3+mkl-cp36-cp36m-win_amd64.whl" "nl5048779_si_001.pdf" "NIMS_材料インフォマティクス研究のアウトカム調査報告書_20180312.pdf" "My Collection.bib" "mol2" "mercurystandalone-3.10.1-windows-installer.exe" "Mendeley-Desktop-1.17.13-win32.exe" "matplotlib-2.2.2-cp36-cp36m-win_amd64.whl" "MathType-win-en.exe" "MathType-win-en-6.9d.exe" "MathType-win-en (1).exe" "material_mp-600089_files.zip" "material_mp-600089_files/" "manuscript_fullpaper_InorgChem_submit.docx" "manuscript_fullpaper_InorgChem_abst_submit.pdf" "M030%28レオロジーなんかこわくない４%29.pdf" "M030%28レオロジーなんかこわくない４%29 (1).pdf" "ko0998_f.pdf" "KindleForPC-installer-1.23.50133.exe" "kindleconvertersetup.exe" "K4Nb6Cl18.cif" "Jmol-14.29.16-binary.zip" "Jmol-14.29.16-binary/" "JASSO-4.pdf" "installbackupandsync.exe" "install-topspin-3.5pl7.tmp~/" "Inconsolata.zip" "Inconsolata.sfd" "Inconsolata.otf" "Inconsolata/" "IMG_1452.JPG" "IMG_1451.JPG" "image023.jpg" "Illustrator_Set-Up.exe" "H30年度卒研申込書写し (1).pdf" "H30.4.1C²ÊÆâÀþ¥¿¡«¥¤¥ä¥ë¥¤¥ó°ìÍ÷.xls" "h2onh3.pdb" "H28ＯＣ報告書（事務職員用）.doc" "GraphColorForOrigin2.ase" "googledrivefilestream.exe" "gimp-2.8.22-setup.exe" "Get-ChildItemColor.psm1" "fmats-04-00046.pdf" "fmats-04-00046 (3).pdf" "fmats-04-00046 (2).pdf" "fmats-04-00046 (1).pdf" "Firefox Installer.exe" "Fig5.eps" "Fig3.eps" "Fig2.eps" "dvxa2018_要旨と発表申込み.zip" "DNA.MOL" "Diagram.png" "Diagram (2).png" "Diagram (1).png" "desktop.ini" "dejavu-sans-mono.zip" "dejavu-sans-mono/" "crystals-08-00182-v2.pdf" "crystals-08-00057.pdf" "crystals-07-00355.pdf" "crystals-06-00024.pdf" "Crysalis_examples.7z" "Crysalis_examples/" "covering_letter_InorgChem.pdf" "covering_letter_InorgChem (1).pdf" "copy_RK1710.pdf" "cop16.0.1.exe" "conference.csv" "comp_s-22_3.doc" "comp_s-22_3 (1).doc" "CMCI_asprep_comp2.png" "ChgKey15.LZH" "Chen_et_al-1997-Journal_of_Polymer_Science_Part_A%3A_Polymer_Chemistry.pdf" "cg400645t_si_002.cif" "CellRef.lzh" "CellRef (1).lzh" "Capture.JPG" "C-rcu_et_al-2015-Angewandte_Chemie_International_Edition.sup-1.pdf" "C-rcu_et_al-2015-Angewandte_Chemie_International_Edition.pdf" "bas_catalog_ce.pdf" "Barazzouk_et_al-2001-Advanced_Materials.pdf" "B17859_review.pdf" "B130321.pdf" "anyconnect-win-4.4.03034-core-vpn-predeploy-k9.msi" "agar_bridges.pdf" "academicSociety2.csv" "academicSociety.csv" "abstract_template_ECIS2018.docx" "9365153.pdf" "60388010-MIT.pdf" "45_1-7.pdf" "3113095_m8e4757.pdf" "2095_Vozni_red_letalisce_2015_verzija_5_5_2015.pdf" "208851.exe" "208851/" "2018年度神楽坂オープンキャンパス実施要項(教員用).doc" "2018年度申請書.docx" "2018年9月24日授業調整日出勤態勢表（予定）.xlsx" "2018_キャンパスライフシステム利用の手引き（教員用）_20180417更新.pdf" "2018_Cosmetology_Suisensho.doc" "20180201_ichiju_josei-shinseisho_single.docx" "1805.pdf" "18001411-066-20822456-0502-0001.pdf" "18001411-066-20822456-0502-0001 (3).pdf" "18001411-066-20822456-0502-0001 (2).pdf" "18001411-066-20822456-0502-0001 (1).pdf" "160565-95-7.png" "1182A.pdf" "1182A (1).pdf" "1.pdf" "1-s2.0-S0927775718302905-main.pdf" "042001.pdf" "02004.pdf" "01_Kaczorowski_11-12_2016.pdf" "01_Kaczorowski_11-12_2016 (1).pdf" ".backup/" "(国内出張）決裁手続の流れ.doc" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/conograph/monoclinic_15/" (23434 24320 0 0) "r_pl.res" "rietan_pl.res" "rietan.xyz" "rietan.sum" "rietan.prf" "rietan.pjn" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.hkp" "rietan.fos" "rietan.def" "rietan.cif" "rietan.bin" "rietan.bat" "r.sum" "r.pjn" "r.lis" "r.hkp" "r.def" "r.cif" "r.chk" "r.bin" "platon.out" "check.def" "candidate_15.cif" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/conograph/trigonal_147/" (23433 29375 0 0) "rietan.xyz" "rietan.prf" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.fos" "rietan.bat" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/Desktop/CMC_asprep_300K_120s_6/" (23414 29148 0 0) "rietan_Cs2-split.lst" "rietan_Cs2-split.ins" "rietan_Cs-not-split.lst" "rietan_Cs-not-split.ins" "rietan.xyz" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.cif" "rietan.bat" "CMC_asprep_300K_120s_6_sg163-15.cif" "CMC_asprep_300K_120s_6_sg163-15/" ".backup/" "#rietan.lst#" "../" "./")
+
+ ("c:/Users/nsaito/Google Drive/.tmp.drivedownload/" (23393 20513 0 0) "7686994.driveupload" "3797409.driveupload" "2836086.driveupload" "../" "./")
+
+ ("g:/My Drive/dotfiles/" (23201 22374 0 0) ".backup/" "myalias.psm1" ".hyper.js" ".vscode/" ".dircolors" ".bashrc" ".emacs.d/" "Get-ChildItemColor.psm1" "../" "./")
+
+ ("g:/My Drive/" (23383 61101 0 0) "desktop.ini" "research_data/" "doc_archive/" "home/" "Getting started.pdf" "research_2014Oct-2018Mar/" "dotfiles/" "../" "./")
+
+ ("g:/My Drive/home/" (23201 22893 0 0) "Documents/" "Applications/" "../" "./")
+
+ ("g:/My Drive/home/Documents/" (23335 26318 0 0) "H30_new_prof_conf/" "NIMS/" "confs/" "TUS_C_H30/" "TUS_Kondo-Lab/" "paperworks/" "2018Mar_startup_grant/" "TUS_entrance_proc/" "org_conf/" "mendeley_pdf/" "../" "./")
+
+ ("g:/My Drive/home/Documents/NIMS/" (23328 33592 0 0) "SP8-2018A/" "ppt/" "../" "./")
+
+ ("g:/My Drive/home/Documents/NIMS/SP8-2018A/" (23392 16345 0 0) "rietveld/" "180715/" "研究打合せ等概要書.xls" "★【国内出張】書類作成フォーム20180501.xlsm" "2018A_Proposal_Norio_Saito[PXRD]_jp.docx" "data/" "post.pptx" "2018A_外来放射線作業者登録申請書_NS.pdf" "研究科長・学部長押印申請書(2018.5.1～）.doc" "ri_worker_appform_extuser.pdf" "../" "./")
+
+ ("g:/My Drive/home/Documents/NIMS/SP8-2018A/rietveld/" (23392 16345 0 0) "CMC_purified_300K_120s_1/" "../" "./")
+
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/rietan/sample8/" (23228 63594 0 0) "rietan_v3.lst" "rietan_v3.ins" "rietan_v2.lst" "rietan_v2.ins" "rietan_v1.lst" "rietan_v1.ins" "rietan_init.ins" "rietan.xyz" "rietan.prf" "rietan.lst" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.fos" "rietan.bat" "MPF_multi.command" "for_thesis/" ".backup/" "../" "./")
+
+ ("d:/NIMS_201410-201803/Data_201410-201709/" (23228 64585 0 0) "ZSN/" "Y-Y2C/" "XRF/" "XRD/" "XPS/" "UV-Vis/" "TG-DTA/" "TDS/" "Stephane/" "SPring-8/" "solvothermal-pressure/" "single-xrd/" "single-crystal/" "SEM/" "Rietveld/" "Raman/" "PL_wadasan/" "PL/" "picture/" "others/" "MS/" "M6_band/" "M6-cluster_CIF/" "ICP/" "humidity_test/" "Hansen_parameter/" "FTIR/" "DFT/" "Benjamin-san/" "../" "./")
+
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/" (23228 63545 0 0) "151201_SPring-8/" "../" "./")
+
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/" (23228 63576 0 0) "sum2.opj" "sum.opj" "SPring-8_Cs-Cl.pdf" "SPring-8_chart.pptx" "sample4_163_final.tsv" "sample4_163_final.lst" "sample4_163_final.cif" "sample4_159_final.tsv" "sample4_159_final.lst" "sample4_159_final.cif" "sample2_163_final.tsv" "sample2_163_final.lst" "sample2_163_final.cif" "sample2_159_final.tsv" "sample2_159_final.lst" "sample2_159_final.cif" "rietan/" "raw/" "index/" "FTIR.opj" "FTIR.jpg" "data.xlsx" "Cs2Mo6Cl14_orig.tsv" "Cs2Mo6Cl14_calc_163.cif" "Cs2Mo6Cl14_calc_159.cif" "Cs-Cl_sync_20-25.jpg" "Cs-Cl_sync_2-10.jpg" "Cs-Cl_sync_15-20.jpg" "Cs-Cl_sync_10-15.jpg" "Cs-Cl_orig.cif" "Cs-Cl_mem/" "abs/" "20151201Saito/" "../" "./")
+
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/rietan/" (23228 63614 0 0) "SP8-summary.zip" "SP8-summary/" "sct-factor.txt" "sample9_true/" "sample9_others/" "sample8/" "sample5/" "sample4/" "sample3/" "sample2_multiphase_163-163/" "sample2_multiphase_163-159/" "sample2/" "sample/" "data.opj" "172024_MEM_Cs-X/" "../" "./")
+
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/rietan/sample4/" (23228 63592 0 0) "163/" "159/" "../" "./")
+
+ ("d:/NIMS_201410-201803/Data_201410-201709/SPring-8/151201_SPring-8/rietan/sample4/163/" (23228 63593 0 0) "Table0.csv" "rietan_occ.lst" "rietan_occ.ins" "rietan_isoB.lst" "rietan_isoB.ins" "rietan_final2.lst" "rietan_final2.ins" "rietan_final2.cif" "rietan_final.lst" "rietan_final.ins" "rietan_atom.lst" "rietan_atom.ins" "rietan_anisoB.lst" "rietan_anisoB.ins" "rietan.xyz" "rietan.prf" "rietan.itx" "rietan.int" "rietan.ins.temp" "rietan.ins" "rietan.inflip" "rietan.fos" "rietan.bat" "MPF_multi.command" "mem/" ".backup/" "../" "./")
+
+ ("c:/Users/nsaito/Documents/WindowsPowerShell/" (23321 9561 0 0) "Microsoft.PowerShell_profile.ps1" ".backup/" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/I_Br_Again_cnv CASTEP Energy/" (23317 20083 0 0) "std_out.txt" "std_err.txt" "SMCastep_Extension_I_Br_Again_cnv.xms" "Mo_EXT_PBESOL_OTF.usp" "Mo_EXT_PBESOL_OTF.pwave" "Mo_EXT_PBESOL_OTF.econv" "Mo_EXT_PBESOL_OTF.beta" "I_EXT_PBESOL_OTF.usp" "I_EXT_PBESOL_OTF.pwave" "I_EXT_PBESOL_OTF.econv" "I_EXT_PBESOL_OTF.beta" "I_Br_Again_cnv_DOS.param" "I_Br_Again_cnv_DOS.kptaux" "I_Br_Again_cnv_DOS.cell" "I_Br_Again_cnv_den.xsd" "I_Br_Again_cnv_BandStr.param" "I_Br_Again_cnv_BandStr.kptaux" "I_Br_Again_cnv_BandStr.cell" "I_Br_Again_cnv.xsd" "I_Br_Again_cnv.trjaux" "I_Br_Again_cnv.pdos_weights" "I_Br_Again_cnv.param" "I_Br_Again_cnv.kptaux" "I_Br_Again_cnv.cst_esp" "I_Br_Again_cnv.check" "I_Br_Again_cnv.cell" "I_Br_Again_cnv.castep_bin" "I_Br_Again_cnv.castep" "I_Br_Again_cnv.bib" "I_Br_Again_cnv.bands" "Cs_EXT_PBESOL_OTF.usp" "Cs_EXT_PBESOL_OTF.pwave" "Cs_EXT_PBESOL_OTF.econv" "Cs_EXT_PBESOL_OTF.beta" "Castepexe.log" "Br_EXT_PBESOL_OTF.usp" "Br_EXT_PBESOL_OTF.pwave" "Br_EXT_PBESOL_OTF.econv" "Br_EXT_PBESOL_OTF.beta" "9076.pid" "8748.pid" "4344.pid" "3136.pid" "3004.pid" "2656.pid" "1876.pid" "12104.pid" "11600.pid" "11304.pid" "10864.pid" "09904.pid" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/I_I_Again_cnv CASTEP Energy/" (23317 20856 0 0) "std_out.txt" "std_err.txt" "SMCastep_Extension_I_I_Again_cnv.xms" "Mo_EXT_PBESOL_OTF.usp" "Mo_EXT_PBESOL_OTF.pwave" "Mo_EXT_PBESOL_OTF.econv" "Mo_EXT_PBESOL_OTF.beta" "I_I_Again_cnv_DOS.param" "I_I_Again_cnv_DOS.kptaux" "I_I_Again_cnv_DOS.cell" "I_I_Again_cnv_den.xsd" "I_I_Again_cnv_BandStr.param" "I_I_Again_cnv_BandStr.kptaux" "I_I_Again_cnv_BandStr.cell" "I_I_Again_cnv.xsd" "I_I_Again_cnv.trjaux" "I_I_Again_cnv.pdos_weights" "I_I_Again_cnv.param" "I_I_Again_cnv.kptaux" "I_I_Again_cnv.cst_esp" "I_I_Again_cnv.check" "I_I_Again_cnv.cell" "I_I_Again_cnv.castep_bin" "I_I_Again_cnv.castep" "I_I_Again_cnv.bib" "I_I_Again_cnv.bands" "I_EXT_PBESOL_OTF.usp" "I_EXT_PBESOL_OTF.pwave" "I_EXT_PBESOL_OTF.econv" "I_EXT_PBESOL_OTF.beta" "Cs_EXT_PBESOL_OTF.usp" "Cs_EXT_PBESOL_OTF.pwave" "Cs_EXT_PBESOL_OTF.econv" "Cs_EXT_PBESOL_OTF.beta" "Castepexe.log" "7636.pid" "7052.pid" "6944.pid" "2720.pid" "14292.pid" "14268.pid" "14240.pid" "14228.pid" "1396.pid" "12908.pid" "12440.pid" "05176.pid" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/I_Cl_Again_cnv CASTEP Energy/" (23317 18525 0 0) "std_out.txt" "std_err.txt" "SMCastep_Extension_I_Cl_Again_cnv.xms" "Mo_EXT_PBESOL_OTF.usp" "Mo_EXT_PBESOL_OTF.pwave" "Mo_EXT_PBESOL_OTF.econv" "Mo_EXT_PBESOL_OTF.beta" "I_EXT_PBESOL_OTF.usp" "I_EXT_PBESOL_OTF.pwave" "I_EXT_PBESOL_OTF.econv" "I_EXT_PBESOL_OTF.beta" "I_Cl_Again_cnv_DOS.param" "I_Cl_Again_cnv_DOS.kptaux" "I_Cl_Again_cnv_DOS.cell" "I_Cl_Again_cnv_den.xsd" "I_Cl_Again_cnv_BandStr.param" "I_Cl_Again_cnv_BandStr.kptaux" "I_Cl_Again_cnv_BandStr.cell" "I_Cl_Again_cnv.xsd" "I_Cl_Again_cnv.trjaux" "I_Cl_Again_cnv.pdos_weights" "I_Cl_Again_cnv.param" "I_Cl_Again_cnv.kptaux" "I_Cl_Again_cnv.cst_esp" "I_Cl_Again_cnv.check" "I_Cl_Again_cnv.cell" "I_Cl_Again_cnv.castep_bin" "I_Cl_Again_cnv.castep" "I_Cl_Again_cnv.bib" "I_Cl_Again_cnv.bands" "Cs_EXT_PBESOL_OTF.usp" "Cs_EXT_PBESOL_OTF.pwave" "Cs_EXT_PBESOL_OTF.econv" "Cs_EXT_PBESOL_OTF.beta" "Cl_EXT_PBESOL_OTF.usp" "Cl_EXT_PBESOL_OTF.pwave" "Cl_EXT_PBESOL_OTF.econv" "Cl_EXT_PBESOL_OTF.beta" "Castepexe.log" "9496.pid" "9184.pid" "8700.pid" "832.pid" "7980.pid" "5388.pid" "14252.pid" "13284.pid" "11532.pid" "11460.pid" "10020.pid" "08452.pid" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Br_I_Again_cnv CASTEP Energy/" (23317 17988 0 0) "std_out.txt" "std_err.txt" "SMCastep_Extension_Br_I_Again_cnv.xms" "Mo_EXT_PBESOL_OTF.usp" "Mo_EXT_PBESOL_OTF.pwave" "Mo_EXT_PBESOL_OTF.econv" "Mo_EXT_PBESOL_OTF.beta" "I_EXT_PBESOL_OTF.usp" "I_EXT_PBESOL_OTF.pwave" "I_EXT_PBESOL_OTF.econv" "I_EXT_PBESOL_OTF.beta" "Cs_EXT_PBESOL_OTF.usp" "Cs_EXT_PBESOL_OTF.pwave" "Cs_EXT_PBESOL_OTF.econv" "Cs_EXT_PBESOL_OTF.beta" "Castepexe.log" "Br_I_Again_cnv_DOS.param" "Br_I_Again_cnv_DOS.kptaux" "Br_I_Again_cnv_DOS.cell" "Br_I_Again_cnv_den.xsd" "Br_I_Again_cnv_BandStr.param" "Br_I_Again_cnv_BandStr.kptaux" "Br_I_Again_cnv_BandStr.cell" "Br_I_Again_cnv.xsd" "Br_I_Again_cnv.trjaux" "Br_I_Again_cnv.pdos_weights" "Br_I_Again_cnv.param" "Br_I_Again_cnv.kptaux" "Br_I_Again_cnv.cst_esp" "Br_I_Again_cnv.check" "Br_I_Again_cnv.cell" "Br_I_Again_cnv.castep_bin" "Br_I_Again_cnv.castep" "Br_I_Again_cnv.bib" "Br_I_Again_cnv.bands" "Br_EXT_PBESOL_OTF.usp" "Br_EXT_PBESOL_OTF.pwave" "Br_EXT_PBESOL_OTF.econv" "Br_EXT_PBESOL_OTF.beta" "6764.pid" "4416.pid" "3960.pid" "13960.pid" "13276.pid" "12580.pid" "1252.pid" "11696.pid" "11444.pid" "11288.pid" "10144.pid" "04032.pid" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Br_Cl_Again_cnv CASTEP Energy/SCF/" (23317 21974 0 0) "Status.txt" "Br_Cl_Again_cnv_DOS.pdos_bin" "Br_Cl_Again_cnv_DOS.param" "Br_Cl_Again_cnv_DOS.kptaux" "Br_Cl_Again_cnv_DOS.cst_esp" "Br_Cl_Again_cnv_DOS.check" "Br_Cl_Again_cnv_DOS.cell" "Br_Cl_Again_cnv_DOS.castep_bin" "Br_Cl_Again_cnv_DOS.castep" "Br_Cl_Again_cnv_DOS.bib" "Br_Cl_Again_cnv_DOS.bands" "Br_Cl_Again_cnv_DOS-out.cell" "Br_Cl_Again_cnv_den.xsd" "Br_Cl_Again_cnv_BandStr.param" "Br_Cl_Again_cnv_BandStr.kptaux" "Br_Cl_Again_cnv_BandStr.cst_esp" "Br_Cl_Again_cnv_BandStr.check" "Br_Cl_Again_cnv_BandStr.cell" "Br_Cl_Again_cnv_BandStr.castep_bin" "Br_Cl_Again_cnv_BandStr.castep" "Br_Cl_Again_cnv_BandStr.bib" "Br_Cl_Again_cnv_BandStr.bands" "Br_Cl_Again_cnv_BandStr-out.cell" "Br_Cl_Again_cnv.xsd" "Br_Cl_Again_cnv.trjaux" "Br_Cl_Again_cnv.pdos_weights" "Br_Cl_Again_cnv.param" "Br_Cl_Again_cnv.kptaux" "Br_Cl_Again_cnv.cst_esp" "Br_Cl_Again_cnv.check" "Br_Cl_Again_cnv.cell" "Br_Cl_Again_cnv.castep_bin" "Br_Cl_Again_cnv.castep" "Br_Cl_Again_cnv.bib" "Br_Cl_Again_cnv.bands" "Br_Cl_Again_cnv PDOS_Mo.xcd" "Br_Cl_Again_cnv PDOS_Cs.xcd" "Br_Cl_Again_cnv PDOS_Cl.xcd" "Br_Cl_Again_cnv PDOS_Br.xcd" "Br_Cl_Again_cnv PDOS.xcd" "Br_Cl_Again_cnv Energies.xcd" "Br_Cl_Again_cnv DOS.xcd" "Br_Cl_Again_cnv Convergence.xcd" "Br_Cl_Again_cnv Band Structure.xcd" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Br_Cl_Again_cnv CASTEP Energy/" (23305 687 0 0) "SMCastep_Extension_Br_Cl_Again_cnv.xms" "SCF/" "Br_Cl_Again_cnv.xsd" "Br_Cl_Again_cnv.trjaux" "Br_Cl_Again_cnv.param" "Br_Cl_Again_cnv.kptaux" "Br_Cl_Again_cnv.cell" "../" "./")
+
+ ("d:/Data_DFT_TUS/" (23304 54857 0 0) "MS_Files/" "MS.stp" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/" (23304 54831 0 0) "Modules/" "MatStudioLog.htm" "Documents/" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Cl_I_Again_cnv CASTEP Energy/Cl_I_Again_cnv CASTEP Energy/" (23307 16360 0 0) "Status.txt" "Cl_I_Again_cnv_den.xsd" "Cl_I_Again_cnv.xsd" "Cl_I_Again_cnv.trjaux" "Cl_I_Again_cnv.pdos_weights" "Cl_I_Again_cnv.param" "Cl_I_Again_cnv.kptaux" "Cl_I_Again_cnv.cst_esp" "Cl_I_Again_cnv.check" "Cl_I_Again_cnv.cell" "Cl_I_Again_cnv.castep_bin" "Cl_I_Again_cnv.castep" "Cl_I_Again_cnv.bib" "Cl_I_Again_cnv.bands" "Cl_I_Again_cnv Energies.xcd" "Cl_I_Again_cnv Convergence.xcd" "Cl_I_Again_cnv CASTEP Properties/" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Cl_I_Again_cnv CASTEP Energy/" (23309 25902 0 0) "SMCastep_Extension_Cl_I_Again_cnv.xms" "Cl_I_Again_cnv.xsd" "Cl_I_Again_cnv.trjaux" "Cl_I_Again_cnv.param" "Cl_I_Again_cnv.kptaux" "Cl_I_Again_cnv.cell" "Cl_I_Again_cnv PDOS_Mo.xcd" "Cl_I_Again_cnv PDOS_I.xcd" "Cl_I_Again_cnv PDOS_Cs.xcd" "Cl_I_Again_cnv PDOS_Cli.xcd" "Cl_I_Again_cnv PDOS.xcd" "Cl_I_Again_cnv DOS.xcd" "Cl_I_Again_cnv CASTEP Energy/" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Cl_Cl_Again_cnv CASTEP Energy/SCF/" (23304 57923 0 0) "Status.txt" "PDOS/" "Cl_Cl_Again_cnv_den.xsd" "Cl_Cl_Again_cnv.xsd" "Cl_Cl_Again_cnv.trjaux" "Cl_Cl_Again_cnv.param" "Cl_Cl_Again_cnv.kptaux" "Cl_Cl_Again_cnv.cst_esp" "Cl_Cl_Again_cnv.check" "Cl_Cl_Again_cnv.cell" "Cl_Cl_Again_cnv.castep_bin" "Cl_Cl_Again_cnv.castep" "Cl_Cl_Again_cnv.bib" "Cl_Cl_Again_cnv.bands" "Cl_Cl_Again_cnv Energies.xcd" "Cl_Cl_Again_cnv Convergence.xcd" "Cl_Cl_Again_cnv Band Structure.xcd" "Band/" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Cl_Cl_Again_cnv CASTEP Energy/" (23305 8373 0 0) "SMCastep_Extension_Cl_Cl_Again_cnv.xms" "SCF/" "Cl_Cl_Again_cnv.xsd" "Cl_Cl_Again_cnv.trjaux" "Cl_Cl_Again_cnv.param" "Cl_Cl_Again_cnv.kptaux" "Cl_Cl_Again_cnv.cell" "Cl_Cl_Again_cnv PDOS_Mo.xcd" "Cl_Cl_Again_cnv PDOS_Cs.xcd" "Cl_Cl_Again_cnv PDOS_Cli.xcd" "Cl_Cl_Again_cnv PDOS_Cla.xcd" "Cl_Cl_Again_cnv PDOS.xcd" "Cl_Cl_Again_cnv DOS.xcd" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/" (23311 31568 0 0) "Structures.lnk" "I_I_Again_cnv CASTEP Energy/" "I_Cl_Again_cnv CASTEP Energy/" "I_Br_Again_cnv CASTEP Energy/" "Examples.lnk" "Cl_I_Again_cnv CASTEP Energy/" "Cl_Cl_Again_cnv CASTEP Energy/" "Cl_Br_Again_cnv CASTEP Energy/" "Br_I_Again_cnv CASTEP Energy/" "Br_Cl_Again_cnv CASTEP Energy/" "Br_Br_Again_cnv CASTEP Energy/" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Br_Br_Again_cnv CASTEP Energy/" (23305 16044 0 0) "SMCastep_Extension_Br_Br_Again_cnv.xms" "Br_Br_Again_cnv.xsd" "Br_Br_Again_cnv.trjaux" "Br_Br_Again_cnv.param" "Br_Br_Again_cnv.kptaux" "Br_Br_Again_cnv.cell" "Br_Br_Again_cnv CASTEP Energy/" "../" "./")
+
+ ("d:/Data_DFT_TUS/MS_Files/Documents/Br_Br_Again_cnv CASTEP Energy/Br_Br_Again_cnv CASTEP Energy/" (23311 34126 0 0) "Status.txt" "Br_Br_Again_cnv_DOS.castep_bin" "Br_Br_Again_cnv_den.xsd" "Br_Br_Again_cnv_BandStr.castep_bin" "Br_Br_Again_cnv.xsd" "Br_Br_Again_cnv.trjaux" "Br_Br_Again_cnv.pdos_weights" "Br_Br_Again_cnv.param" "Br_Br_Again_cnv.kptaux" "Br_Br_Again_cnv.cst_esp" "Br_Br_Again_cnv.check" "Br_Br_Again_cnv.cell" "Br_Br_Again_cnv.castep_bin" "Br_Br_Again_cnv.castep" "Br_Br_Again_cnv.bib" "Br_Br_Again_cnv.bands" "Br_Br_Again_cnv Energies.xcd" "Br_Br_Again_cnv Convergence.xcd" "../" "./")
+
+ ("c:/Users/nsaito/AppData/LocalLow/" (23235 17526 0 0) "Mozilla/" "Microsoft/" "Adobe/" "../" "./")
+
+ ("c:/Users/nsaito/AppData/" (23196 8379 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/ProgramData/chocolatey/" (23198 49940 0 0) "tools/" "redirects/" "logs/" "LICENSE.txt" "lib-bad/" "lib/" "helpers/" "extensions/" "CREDITS.txt" "config/" "choco.exe.manifest" "choco.exe.ignore" "choco.exe" "bin/" ".chocolatey/" "../" "./")
+
+ ("c:/ProgramData/chocolatey/bin/" (23200 11601 0 0) "_processed.txt" "update-game-score.exe" "unzipsfx.exe" "unzipsfx-gcc.exe" "unzip.exe" "SFXWiz32.exe" "SFXWiz32-gcc.exe" "runemacs.exe" "RefreshEnv.cmd" "rapidee.exe" "profile.exe" "movemail.exe" "hexl.exe" "funzip.exe" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.5.exe" "ebrowse.exe" "ddeclient.exe" "cver.exe" "cup.exe" "cuninst.exe" "ctags.exe" "cpush.exe" "cpack.exe" "cmdproxy.exe" "clist.exe" "cinst.exe" "chocolatey.exe" "choco.exe" "addpm.exe" "7z.exe" "../" "./")
+
+ ("c:/tools/cmder/vendor/" (23083 4455 0 0) "user-aliases.cmd.example" "sources.json" "Readme.md" "psmodules/" "profile.ps1" "init.bat" "git-for-windows/" "conemu-maximus5/" "cmder_exinit" "clink.lua" "clink-completions/" "clink/" ".backup/" "../" "./")
+
+ ("/Users/saitonorio/Google Drive/dotfiles/.emacs.d/" (23083 3044 613070 477000) "public_repos/" "recentf.txt" ".backup/" "themes/" "conf/" "elpa/" "templates/" "elisp/" "init.el" "templatemplate.scm" "url/" "auto-save-list/" "server/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/saitonorio/Google Drive/dotfiles/" (23080 8003 223822 118000) ".hyper.js" ".emacs.d/" ".bashrc" ".dircolors" "../" "./")
+
+ ("/Users/saitonorio/Google Drive/" (23081 25524 28770 515000) "Untitled document.gdoc" "private/" ".tmp.drivedownload/" "Icon
+" "dotfiles/" ".DS_Store" "Getting started" "../" "./")
+
+ ("/Users/saitonorio/Applications/" (23083 3295 574306 247000) ".#.localized" "#.localized#" ".localized" "../" "./")
+
+ ("/Users/" (23062 46322 774663 349000) "Guest/" "Shared/" "saitonorio/" ".localized" "../" "./")
+
+ ("/Users/saitonorio/" (23065 49190 164987 342000) ".bash_history" ".backup/" "Downloads/" ".bash_profile" "Documents/" ".Trash/" "Applications/" "Movies/" ".ssh/" "Public/" "Google Drive/" ".emacs.d/" "Library/" "Desktop/" "Pictures/" ".bashrc" ".CFUserTextEncoding" ".DS_Store" "Music/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
